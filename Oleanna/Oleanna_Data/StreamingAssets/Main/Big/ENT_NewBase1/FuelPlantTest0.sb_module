@@ -1,0 +1,1 @@
+{"ID":"FuelPlantTest","Name":"Fuel Plant Test","pos":{"x":557.6629028320313,"y":384.862060546875},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunFuel.png","Type":17,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[2,10,11],"Functionality":"None","Params":""}

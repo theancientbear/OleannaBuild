@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Asa Durakoff",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214278
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard12",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 3.7076539993286135,
+    "Extraversion": 57.22084045410156,
+    "Openness": 14.313982009887696,
+    "Agreeableness": 46.98966598510742,
+    "Consientiousness": 64.52034759521485,
+    "ControllerData": ""
+}

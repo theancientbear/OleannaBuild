@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Arman Karimi",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214286
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard22",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.1636962890625,
+    "Extraversion": 54.709129333496097,
+    "Openness": 3.983900547027588,
+    "Agreeableness": 27.784934997558595,
+    "Consientiousness": 73.24722290039063,
+    "ControllerData": ""
+}

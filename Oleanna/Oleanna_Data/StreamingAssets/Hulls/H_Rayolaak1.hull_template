@@ -1,0 +1,29 @@
+{
+    "ID": "Rayolaak1",
+    "Name": "Rama Rayolaak",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 250,
+    "SpaceSigma": 70,
+    "BasePrice": 3400,
+    "TechLevel": 2,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 400,
+    "Image": "Rayolaak.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 600.0,
+    "Tags": "ForSell|Trader",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        3
+    ],
+    "AdditionalSlots": [],
+    "Conditions": [
+        "tech:nano_supporting_structures"
+    ]
+}

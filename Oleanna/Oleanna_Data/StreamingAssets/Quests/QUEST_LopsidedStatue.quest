@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "LopsidedStatue",
+    "Name": "Lopsided Statue",
+    "Description": "You’re tasked with delivering a Lopsided Statue to the New Horizons Cultural Foundation on #TargetBase#. It’s... an abstract piece, shaped like a humanoid but with the proportions of a melting puddle. It’s somehow considered an artistic revolution by some, but I’m just here for the paycheck. The client expects it to arrive in one piece and without any damage to their precious “vision.\" Don’t drop it, don’t shake it, and don’t let anyone convince you it’s “better off in pieces.” The #Reward# is yours once it’s safely delivered.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QLopsidedStatue",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You’ve done it. The statue’s lopsided nature still manages to get applause, though I’m not sure if it’s for its “avant-garde design” or just to avoid offending the artist. Payment’s in. Maybe buy yourself something normal this time.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

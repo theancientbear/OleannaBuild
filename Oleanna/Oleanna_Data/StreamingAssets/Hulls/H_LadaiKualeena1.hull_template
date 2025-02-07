@@ -1,0 +1,27 @@
+{
+    "ID": "LadaiKualeena1",
+    "Name": "Ladai Kualeena Phiga",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 250,
+    "SpaceSigma": 70,
+    "BasePrice": 700,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 300,
+    "Image": "Kualeena.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 300.0,
+    "Tags": "Test",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        6
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

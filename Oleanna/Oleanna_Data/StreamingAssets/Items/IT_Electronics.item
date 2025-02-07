@@ -1,0 +1,14 @@
+{
+    "ID": "Electronics",
+    "Name": "Electronics",
+    "Description": "Transistors, diods and other electronic components, often known as gold of the modernity.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "ElectronicsIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

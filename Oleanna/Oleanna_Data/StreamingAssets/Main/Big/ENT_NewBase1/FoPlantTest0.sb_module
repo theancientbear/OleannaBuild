@@ -1,0 +1,1 @@
+{"ID":"FoPlantTest","Name":"Plant Test","pos":{"x":602.7365112304688,"y":301.84173583984377},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunFarm.png","Type":13,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,1,7,8,9],"Functionality":"None","Params":""}

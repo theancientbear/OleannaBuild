@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Arman Novak",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214266
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader50",
+    "Money": 2397,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 12.225133895874024,
+    "Extraversion": 40.29352569580078,
+    "Openness": 61.944854736328128,
+    "Agreeableness": 40.15924835205078,
+    "Consientiousness": 0.8713550567626953,
+    "ControllerData": ""
+}

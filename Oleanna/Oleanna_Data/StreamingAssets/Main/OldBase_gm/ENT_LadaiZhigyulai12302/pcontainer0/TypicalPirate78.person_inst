@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "TypicalPirate",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214240
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate78",
+    "Money": 1024,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 69.80014038085938,
+    "Extraversion": 45.76589584350586,
+    "Openness": -50.81316375732422,
+    "Agreeableness": 11.051165580749512,
+    "Consientiousness": -48.42781448364258,
+    "ControllerData": ""
+}

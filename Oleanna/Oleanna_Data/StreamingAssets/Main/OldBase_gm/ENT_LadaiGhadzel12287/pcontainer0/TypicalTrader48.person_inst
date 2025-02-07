@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Noor Radoff",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214268
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader48",
+    "Money": 2134,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 16.386882781982423,
+    "Extraversion": 60.70386505126953,
+    "Openness": 34.798500061035159,
+    "Agreeableness": 42.18204116821289,
+    "Consientiousness": 7.451023101806641,
+    "ControllerData": ""
+}

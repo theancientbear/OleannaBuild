@@ -1,0 +1,11 @@
+{
+    "ID": "optimised_quantum_transfer",
+    "Name": "Optimised quantum transfer",
+    "Icon": "",
+    "Description": "\n\nOptimised quantum transfer technology represents the cutting edge of quantum information science, enabling the near-perfect transmission of quantum states across various mediums and distances. This breakthrough overcomes previous limitations in quantum communication and computation, paving the way for practical quantum networks and distributed quantum systems.\n\nThis technology revolutionizes fields such as cryptography, distributed computing, and quantum sensing, enabling new paradigms in secure communication and ultra-fast data processing.\n",
+    "Requirements": [
+        "tech:quantum_kinetic_simulations"
+    ],
+    "ResearchNeeded": 700.0,
+    "ResearchDone": 0.0
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Niki Singh",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214260
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader56",
+    "Money": 2449,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 14.344594955444336,
+    "Extraversion": 64.58954620361328,
+    "Openness": 37.19724655151367,
+    "Agreeableness": 63.16547393798828,
+    "Consientiousness": 1.5260868072509766,
+    "ControllerData": ""
+}

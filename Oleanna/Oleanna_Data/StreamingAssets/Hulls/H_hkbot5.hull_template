@@ -1,0 +1,27 @@
+{
+    "ID": "hkbot5",
+    "Name": "hkbot",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 1000,
+    "SpaceSigma": 70,
+    "BasePrice": 1000,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 120,
+    "Image": "hkbot5.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 200.0,
+    "Tags": "",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        6
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

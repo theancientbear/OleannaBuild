@@ -1,0 +1,20 @@
+{
+    "itemType": 1,
+    "Name": "Fusion Engine",
+    "Description": "Fusion Engine is a century old engine design, still used today thanks to its cheapness and availability.",
+    "ID": "FusionEngine",
+    "BasePrice": 294.99285888671877,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "EngineIcon.png",
+    "Quantity": 1,
+    "Weight": 0.0,
+    "Type": 0,
+    "MaxDurability": 399.05731201171877,
+    "Durability": 280.0557556152344,
+    "TechLevel": 0,
+    "ForwardThrust": 66.22093200683594,
+    "BackwardThrust": 42.95844268798828,
+    "SidewaysThrust": 56.55826950073242,
+    "DashCooldown": 3.0
+}

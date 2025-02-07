@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Ari Nasir",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader28",
+    "Money": 2178,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 16.35558319091797,
+    "Extraversion": 58.53860092163086,
+    "Openness": 40.591697692871097,
+    "Agreeableness": 79.1441650390625,
+    "Consientiousness": -12.736663818359375,
+    "ControllerData": ""
+}

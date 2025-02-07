@@ -1,0 +1,29 @@
+{
+    "ID": "Trade",
+    "templates": [
+        {
+            "type": 14,
+            "Arguments": "random"
+        },
+        {
+            "type": 3,
+            "Arguments": "station_found"
+        },
+        {
+            "type": 4,
+            "Arguments": "resources"
+        },
+        {
+            "type": 14,
+            "Arguments": "random"
+        },
+        {
+            "type": 3,
+            "Arguments": "station_found"
+        },
+        {
+            "type": 5,
+            "Arguments": "resources"
+        }
+    ]
+}

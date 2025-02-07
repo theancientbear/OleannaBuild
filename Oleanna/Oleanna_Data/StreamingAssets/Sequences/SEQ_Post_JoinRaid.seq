@@ -1,0 +1,4 @@
+{
+    "ID": "Post_JoinRaid",
+    "Scr": "asker.JoinRaid(Launcher)\n\nPrint(\"Joining raid post\")"
+}

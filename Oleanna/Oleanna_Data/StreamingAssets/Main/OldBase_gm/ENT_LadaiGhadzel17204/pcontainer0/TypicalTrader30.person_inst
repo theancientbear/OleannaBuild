@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Rumi Novak",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader30",
+    "Money": 2216,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 13.197149276733399,
+    "Extraversion": 78.62018585205078,
+    "Openness": 34.05846405029297,
+    "Agreeableness": 40.44411087036133,
+    "Consientiousness": -9.446842193603516,
+    "ControllerData": ""
+}

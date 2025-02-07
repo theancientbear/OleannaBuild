@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "SuchANiceGuy",
+    "Name": "Such a Nice Guy!",
+    "Description": "#TargetObject# is a really nice guy, you know. He is always ready to help, and can't refuse a properly given gift. That has been a problem for a while now. Unfortunately, he apparently got some protection from the higher ups, so we can not simply fire him. Thus, it would be better if some punk would destroy his ship, without any connection, purely following their own initiative. The sudden lottery gain of #Reward# to this probable delinquent will be delivered shortly.",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "guard",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Oh my, such a nice guy! What a tragedy! And such a reputational blow to his guardian angels in the higher ups. By the way, check your bank account, I think the lottery results are out.\n",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

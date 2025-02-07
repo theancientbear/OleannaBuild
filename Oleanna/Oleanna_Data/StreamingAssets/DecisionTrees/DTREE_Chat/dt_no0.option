@@ -1,0 +1,15 @@
+{
+    "Emotion": {
+        "Hapinness": 10.0,
+        "Expectation": 10.0,
+        "Curiousity": 10.0,
+        "Admiration": 10.0
+    },
+    "Condition": "!inbattle",
+    "Description": "Sure!",
+    "NextMode": "",
+    "NextGoal": "",
+    "Sequence": "",
+    "SendToNext": "",
+    "ChangeCharacter": ""
+}

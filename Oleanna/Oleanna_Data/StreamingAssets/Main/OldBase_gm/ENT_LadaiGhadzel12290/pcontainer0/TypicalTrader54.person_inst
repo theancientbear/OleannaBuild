@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Taye Durakoff",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214262
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader54",
+    "Money": 2152,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 16.384048461914064,
+    "Extraversion": 72.62017822265625,
+    "Openness": 56.782527923583987,
+    "Agreeableness": 57.88874053955078,
+    "Consientiousness": 3.443096160888672,
+    "ControllerData": ""
+}

@@ -1,0 +1,4 @@
+{
+    "ID": "StartShipDestroyed",
+    "Scr": "StartSequenceWithDelay(\"dyn:ClearFloatingText()\",2)\nStartSequenceWithDelay(\"dyn:StartAbstractDialog(\\\"P_Q_Antibiotik\\\",\\\"Intro_Antibiotik2\\\")\",3)"
+}

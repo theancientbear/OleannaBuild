@@ -1,0 +1,12 @@
+{
+    "ID": "HullShop",
+    "Name": "Expansion with a Harbour",
+    "MoneyNeeded": 8000.0,
+    "TimeNeeded": 8.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "HullShopTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

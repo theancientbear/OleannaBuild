@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Arya Tanaka",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214270
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader46",
+    "Money": 2278,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 13.350852012634278,
+    "Extraversion": 87.56986236572266,
+    "Openness": 62.050865173339847,
+    "Agreeableness": 88.7606201171875,
+    "Consientiousness": -8.516481399536133,
+    "ControllerData": ""
+}

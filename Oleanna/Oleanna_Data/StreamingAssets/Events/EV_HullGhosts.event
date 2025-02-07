@@ -1,0 +1,39 @@
+{
+    "ID": "HullGhosts",
+    "Type": 0,
+    "Name": "Hull Ghosts",
+    "Description": "As the station aged, its infrastructure began to speak - quite literally, according to crew rumors. Unexplained noises emanating from aging structural components gave rise to a mythology of \"hull ghosts.\" What engineers recognized as structural stress and metal fatigue, the crew interpreted as supernatural visitations. The rumors spread like wildfire, creating a unique psychological phenomenon that blended technological anxiety with primal fear.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Fuel:prod:-1|Metals:cons:2|Electronics:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

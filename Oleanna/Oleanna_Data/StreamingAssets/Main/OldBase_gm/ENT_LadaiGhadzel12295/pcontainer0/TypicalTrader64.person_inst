@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Neo Durakoff",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214254
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader64",
+    "Money": 2964,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 18.004961013793947,
+    "Extraversion": 41.44902801513672,
+    "Openness": 33.058937072753909,
+    "Agreeableness": 60.61052703857422,
+    "Consientiousness": -14.450145721435547,
+    "ControllerData": ""
+}

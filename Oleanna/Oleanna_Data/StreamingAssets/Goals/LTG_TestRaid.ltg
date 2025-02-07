@@ -1,0 +1,21 @@
+{
+    "ID": "TestRaid",
+    "templates": [
+        {
+            "type": 3,
+            "Arguments": "Origin"
+        },
+        {
+            "type": 8,
+            "Arguments": "40"
+        },
+        {
+            "type": 3,
+            "Arguments": "TargetPos#10"
+        },
+        {
+            "type": 20,
+            "Arguments": ""
+        }
+    ]
+}

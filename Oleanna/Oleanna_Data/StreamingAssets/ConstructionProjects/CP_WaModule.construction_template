@@ -1,0 +1,12 @@
+{
+    "ID": "WaModule",
+    "Name": "Expansion with a water module",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "test",
+    "ObjectToBuild": "WaPlantTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

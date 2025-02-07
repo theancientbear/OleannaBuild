@@ -1,0 +1,39 @@
+{
+    "ID": "NarcoticNostalgia",
+    "Type": 0,
+    "Name": "Narcotics Nostalgia",
+    "Description": "A forgotten shipment of illegal goods, buried deep in the station's inventory, resurfaced with unexpected consequences. The discovered substance was no ordinary contraband, but a highly addictive narcotic that triggered intense waves of nostalgia and memory. Crew members found themselves drawn to the drug, experiencing vivid hallucinations of past lives and lost connections. The discovery quickly spiraled into a widespread addiction crisis that threatened to undermine the station's entire operational structure.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#IllegalGoods:cons:4|LuxuryGoods:cons:2|Food:prod:-2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

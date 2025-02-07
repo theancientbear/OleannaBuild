@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Zhenya Kowalski",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate50",
+    "Money": 1067,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 60.35835266113281,
+    "Extraversion": 76.46060943603516,
+    "Openness": -84.6233901977539,
+    "Agreeableness": 1.9925270080566407,
+    "Consientiousness": -24.9051570892334,
+    "ControllerData": ""
+}

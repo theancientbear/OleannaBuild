@@ -1,0 +1,11 @@
+{
+    "ID": "ResourceShopTest",
+    "Name": "Market",
+    "Graphics": "Modules/MarketModule.png",
+    "Type": 7,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 2.0,
+    "DialogBackground": "",
+    "Params": ""
+}

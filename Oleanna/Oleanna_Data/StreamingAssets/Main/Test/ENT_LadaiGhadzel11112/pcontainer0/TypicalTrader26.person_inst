@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Toni Adebayo",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader26",
+    "Money": 2596,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 16.34127426147461,
+    "Extraversion": 85.1235580444336,
+    "Openness": 29.523414611816408,
+    "Agreeableness": 74.49615478515625,
+    "Consientiousness": 9.957275390625,
+    "ControllerData": ""
+}

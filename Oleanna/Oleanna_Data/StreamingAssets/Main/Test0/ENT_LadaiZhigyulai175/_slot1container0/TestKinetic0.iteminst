@@ -1,0 +1,1 @@
+{"itemType":1,"Name":"Test Kinetic Weapon","Description":"","ID":"TestKinetic","BasePrice":100.0,"Series":"","Stackable":false,"Icon":"KineticIcon.png","Quantity":1,"Weight":90.97247314453125,"Type":1,"MaxDurability":0.0,"Durability":0.0,"weaponType":2,"MaxDamage":2.76332950592041,"MinDamage":0.9345029592514038,"Recoil":10.0,"ReloadTime":0.06565143167972565,"ReadyToShoot":true}

@@ -1,0 +1,26 @@
+{
+    "ID": "dadasd",
+    "Name": "",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 1000,
+    "SpaceSigma": 0,
+    "BasePrice": 0,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 0,
+    "Image": "DefaultBlue",
+    "BackgroundDialog": "",
+    "MaxHealth": 100.0,
+    "Tags": "",
+    "Slots": [
+        1,
+        2,
+        1,
+        0
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

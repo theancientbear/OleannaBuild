@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 100.0,
+    "ID": "TestDelivery",
+    "Name": "Cryochamber Delivery",
+    "Description": "Well, concerning work...The story is following: one of the noble citizens from our station got ill with an incurable case of Loikum Orealis. A truly horrible disease with, apparently, no working cure. To his luck, the brain got undamaged and recently a donor was found for the replacement. But, well, he is not here but on the Halaas Base. This is where your task lies. Deliver the cryocapsule with our noble citizen to Halaas Base.  You will save the life of a deserving man.And do not worry, his insurance covers the delivery services.But please, hurry! The matter is urgent! The payment of #Reward# hopefully will be enough.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "Cryochamber",
+    "Condition": "",
+    "TechProgress": "0",
+    "Tags": [
+        "basecommander",
+        "base"
+    ],
+    "OnFinish": "Concerning that... Thank you for your servicers. It was a pleasure to work with you.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

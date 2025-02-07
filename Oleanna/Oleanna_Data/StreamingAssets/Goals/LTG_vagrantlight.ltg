@@ -1,0 +1,21 @@
+{
+    "ID": "vagrantlight",
+    "templates": [
+        {
+            "type": 14,
+            "Arguments": "mob_vagrant"
+        },
+        {
+            "type": 22,
+            "Arguments": "station_found#150"
+        },
+        {
+            "type": 19,
+            "Arguments": "{Vagrant}"
+        },
+        {
+            "type": 3,
+            "Arguments": "point_found"
+        }
+    ]
+}

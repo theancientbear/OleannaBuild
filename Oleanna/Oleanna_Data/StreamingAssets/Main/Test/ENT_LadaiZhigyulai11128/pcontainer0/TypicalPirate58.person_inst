@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Arya Novak",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate58",
+    "Money": 1276,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 80.85989379882813,
+    "Extraversion": 57.19580841064453,
+    "Openness": -56.83076477050781,
+    "Agreeableness": -19.49486541748047,
+    "Consientiousness": -24.77179527282715,
+    "ControllerData": ""
+}

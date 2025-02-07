@@ -1,0 +1,1 @@
+{"ID":"LuPlantTest","Name":"LuPlantTest","pos":{"x":81.19441223144531,"y":-41.00947570800781},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/PopulationModule.png","Type":15,"race":0,"Purpose":1,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[3,5,6],"Functionality":"None","Params":""}

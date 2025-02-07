@@ -1,0 +1,11 @@
+{
+    "ID": "metal_smelting",
+    "Name": "Metal smelting",
+    "Icon": "",
+    "Description": "\n\nMetal smelting in this advanced technological context goes far beyond traditional metallurgy. It incorporates cutting-edge techniques and technologies to extract, refine, and manipulate metals at the atomic level. This revolutionary approach to metalworking enables the creation of materials with properties that were previously thought impossible.\n\nThis technology not only enhances the production of existing metals but also allows for the creation of entirely new metallic and non-metallic materials with extraordinary properties, crucial for advanced manufacturing and construction.\n",
+    "Requirements": [
+        "tech:science_reorganisation"
+    ],
+    "ResearchNeeded": 200.0,
+    "ResearchDone": 0.0
+}

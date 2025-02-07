@@ -1,0 +1,1 @@
+{"ID":"ElFactTest","Name":"El Factory Test","pos":{"x":691.6527709960938,"y":-706.9012451171875},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"ELFact.png","Type":10,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,4,6],"Functionality":"None","Params":""}

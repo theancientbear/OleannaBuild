@@ -1,0 +1,4 @@
+{
+    "ID": "JoinRaid",
+    "Scr": "Print(\"Joining raid\")\n\nasker.JoinRaid(Launcher)\n\n\nPrint(\"Joining raid\")"
+}

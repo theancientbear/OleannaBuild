@@ -1,0 +1,1 @@
+{"ID":"PopulationTest","Name":"PopulationTest","pos":{"x":-896.2865600585938,"y":866.7731323242188},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunPopulation.png","Type":4,"race":2,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[1,6,10,12],"Functionality":"None","Params":""}

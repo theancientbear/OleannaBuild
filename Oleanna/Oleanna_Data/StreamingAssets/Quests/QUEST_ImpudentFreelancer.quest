@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "ImpudentFreelancer",
+    "Name": "Impudent Freelancer",
+    "Description": "There is this guy, #TargetObject#, who was doing us certain small services: some under the radar deliveries, little investigations here and there and so on. Recently we asked him to deliver an old precursor artifact. Well, he thought it would be an amazing idea to try to plug it into the power network. Apparently he got some kind of revelation from this hard drive... I meant, precursor's artifact, of course. Worse of all: he is planning to start some sect and attempt breaking the existing order. You might call them superstitious, but the higher ups decided he should not be there anymore.  #Reward# should pay the expenses.\n",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "pirate",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Great job! The \"artifact\" was destroyed, with all the info on it, and you succesfully protected the stability of the order and the wellbeing of our society. #Reward# should be already transferred.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

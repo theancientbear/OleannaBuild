@@ -1,0 +1,4 @@
+{
+    "ID": "Quest_DistressBeacon",
+    "Scr": "CompleteQuestObjective(\"DistressBeacon\")\nDestroy(Object)"
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "protective_energy_fields",
+    "Name": "Protective energy fields",
+    "Icon": "",
+    "Description": "Protective energy fields represent the pinnacle of defense technology, creating impenetrable barriers of pure energy. These fields go beyond simple electromagnetic shields, incorporating multiple layers of various energy types to defend against a wide spectrum of threats. These advanced shields provide unparalleled protection for everything from personal armor to planetary defense systems, revolutionizing both military and civilian safety measures. ",
+    "Requirements": [
+        "tech:high_energy_focalisation"
+    ],
+    "ResearchNeeded": 600.0,
+    "ResearchDone": 0.0
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Arman Chaska",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard8",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 4.859506607055664,
+    "Extraversion": 52.36121368408203,
+    "Openness": 16.095766067504884,
+    "Agreeableness": 11.270320892333985,
+    "Consientiousness": 68.508056640625,
+    "ControllerData": ""
+}

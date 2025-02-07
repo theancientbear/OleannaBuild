@@ -1,0 +1,29 @@
+{
+    "ID": "VolkenagWisser",
+    "Name": "Volkenag Wisser",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 600,
+    "SpaceSigma": 70,
+    "BasePrice": 4000,
+    "TechLevel": 2,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 800,
+    "Image": "VolkenagWisser.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 660.0,
+    "Tags": "ForSell|Guard",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        1
+    ],
+    "AdditionalSlots": [],
+    "Conditions": [
+        "tech:quantum_tunneling_diagnostics"
+    ]
+}

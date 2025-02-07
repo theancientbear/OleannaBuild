@@ -1,0 +1,14 @@
+{
+    "ID": "TestItem",
+    "Name": "Test Item 1",
+    "Description": "",
+    "ItemType": 0,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

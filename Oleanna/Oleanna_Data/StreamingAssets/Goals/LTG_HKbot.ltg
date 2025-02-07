@@ -1,0 +1,25 @@
+{
+    "ID": "HKbot",
+    "templates": [
+        {
+            "type": 14,
+            "Arguments": "mob_hk_base"
+        },
+        {
+            "type": 22,
+            "Arguments": "station_found#1000"
+        },
+        {
+            "type": 16,
+            "Arguments": "point_found#citizen"
+        },
+        {
+            "type": 19,
+            "Arguments": "{HK_miner}"
+        },
+        {
+            "type": 1,
+            "Arguments": "person_found"
+        }
+    ]
+}

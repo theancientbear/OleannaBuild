@@ -1,0 +1,4 @@
+{
+    "ID": "FormHirePrices",
+    "Scr": "Print(\"Forming hire functions\")\n\nbig_amount = tonumber(1000)\n\nsmall_amount = tonumber(200)\n\n\nmedium_amount = tonumber(500)"
+}

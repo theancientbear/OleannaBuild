@@ -1,0 +1,15 @@
+{
+    "Emotion": {
+        "Hapinness": 0.0,
+        "Expectation": -3.0,
+        "Curiousity": 0.5,
+        "Admiration": -2.0
+    },
+    "Condition": "",
+    "Description": "Sorry, my bad!",
+    "NextMode": "",
+    "NextGoal": "",
+    "Sequence": "",
+    "SendToNext": "",
+    "ChangeCharacter": ""
+}

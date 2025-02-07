@@ -1,0 +1,28 @@
+{
+    "ID": "Jiraak1",
+    "Name": "Rama Jiraak",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 250,
+    "SpaceSigma": 70,
+    "BasePrice": 1600,
+    "TechLevel": 1,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 350,
+    "Image": "Jiraak.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 390.0,
+    "Tags": "ForSell|Trader",
+    "Slots": [
+        1,
+        2,
+        0,
+        3
+    ],
+    "AdditionalSlots": [],
+    "Conditions": [
+        "tech:optimised_conductors"
+    ]
+}

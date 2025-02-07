@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Vinh Bakhtiar",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214294
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard16",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.357354164123535,
+    "Extraversion": 50.274208068847659,
+    "Openness": 0.48197031021118166,
+    "Agreeableness": 27.75856590270996,
+    "Consientiousness": 60.088226318359378,
+    "ControllerData": ""
+}

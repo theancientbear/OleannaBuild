@@ -1,0 +1,1 @@
+{"ID":"HullShopTest","Name":"Hull Shop","pos":{"x":1276.4345703125,"y":853.6721801757813},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunHarbour.png","Type":9,"race":0,"Purpose":0,"Effectivity":0.0,"DialogBackground":"","ConnectedModules":[1,4,10,11],"Functionality":"","Params":"Test|Yahrun"}

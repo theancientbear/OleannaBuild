@@ -1,0 +1,4 @@
+{
+    "ID": "Quest_CreateLostShip",
+    "Scr": "\nent = FindEntityByID(\"LostShip\")\nPrint(\"Creating Lost Ship\")\n\nSetQuestTarget(\"LostShip\",ent)"
+}

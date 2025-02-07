@@ -1,0 +1,11 @@
+{
+    "ID": "WaPlantTest",
+    "Name": "Water Plant",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 14,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

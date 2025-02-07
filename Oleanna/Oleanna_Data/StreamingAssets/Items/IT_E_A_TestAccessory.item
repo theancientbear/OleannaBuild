@@ -1,0 +1,20 @@
+{
+    "ID": "TestAccessory",
+    "Name": "Test acc",
+    "Description": "",
+    "ItemType": 1,
+    "BasePrice": 100.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": [],
+    "Type": 6,
+    "Modifiers": [],
+    "DurabilityBase": 0.0,
+    "DurabilitySigma": 0.0,
+    "Producer": "",
+    "TechLevel": 0
+}

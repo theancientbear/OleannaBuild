@@ -1,0 +1,12 @@
+{
+    "ID": "decentralised_energy_systems",
+    "Name": "Decentralised energy systems",
+    "Icon": "",
+    "Description": "\n\nDecentralised energy systems represent a revolutionary approach to power generation, distribution, and management. This technology moves away from centralized power plants and grid systems, instead creating a network of interconnected, autonomous energy nodes that can generate, store, and distribute power efficiently and adaptively.\n\nThese systems provide unprecedented energy security, efficiency, and adaptability, enabling everything from self-powered smart cities to resilient off-world colonies.\n",
+    "Requirements": [
+        "tech:tenergy_condensators",
+        "tech:advanced_mining"
+    ],
+    "ResearchNeeded": 900.0,
+    "ResearchDone": 0.0
+}

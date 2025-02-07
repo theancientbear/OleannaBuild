@@ -1,0 +1,8 @@
+{
+    "Name": "Steintasche",
+    "Description": "default",
+    "OnLoad": "",
+    "OnUnload": "wssaw",
+    "OnInitialize": "EnterOleanna",
+    "Initialized": false
+}

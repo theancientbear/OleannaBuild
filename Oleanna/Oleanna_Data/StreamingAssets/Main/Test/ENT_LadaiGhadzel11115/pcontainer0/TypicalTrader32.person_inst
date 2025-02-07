@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Arman Adebayo",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader32",
+    "Money": 2859,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 18.111068725585939,
+    "Extraversion": 54.22297668457031,
+    "Openness": 63.24542236328125,
+    "Agreeableness": 63.58856964111328,
+    "Consientiousness": -11.388158798217774,
+    "ControllerData": ""
+}

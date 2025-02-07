@@ -1,0 +1,1 @@
+{"ID":"MePlantTest","Name":"PlantTest","pos":{"x":380.68914794921877,"y":-966.6431274414063},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunMetal.png","Type":12,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,2,3,6,11],"Functionality":"None","Params":""}

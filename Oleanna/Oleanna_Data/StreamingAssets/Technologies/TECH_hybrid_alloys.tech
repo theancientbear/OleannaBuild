@@ -1,0 +1,12 @@
+{
+    "ID": "hybrid_alloys",
+    "Name": "Hybrid alloys",
+    "Icon": "",
+    "Description": "\n\nHybrid alloys represent a quantum leap in materials science, combining the properties of metals, ceramics, and even organic compounds at the molecular level. These advanced materials transcend traditional metallurgy, offering unprecedented combinations of strength, lightness, conductivity, and other desirable properties.\n\nThese revolutionary materials enable the construction of stronger, lighter structures, more efficient energy systems, and advanced technology components that were previously impossible to manufacture.\n",
+    "Requirements": [
+        "tech:metal_smelting",
+        "tech:energetic_manipulation"
+    ],
+    "ResearchNeeded": 300.0,
+    "ResearchDone": 0.0
+}

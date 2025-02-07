@@ -1,0 +1,11 @@
+{
+    "ID": "FuelPlantTest",
+    "Name": "Fuel Plant Test",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 17,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

@@ -1,0 +1,1 @@
+{"ID":"ScienceTestModule","Name":"","pos":{"x":-159.20257568359376,"y":-56.01552200317383},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunScience.png","Type":1,"race":0,"Purpose":0,"Effectivity":0.0,"DialogBackground":"","ConnectedModules":[0,1,2,7,8,11,12],"Functionality":"None","Params":""}

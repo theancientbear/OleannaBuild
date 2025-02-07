@@ -1,0 +1,12 @@
+{
+    "ID": "PopulationModule",
+    "Name": "Expansion with new living quarters",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "PopulationTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

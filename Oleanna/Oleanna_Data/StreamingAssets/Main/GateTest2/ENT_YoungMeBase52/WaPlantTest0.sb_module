@@ -1,0 +1,1 @@
+{"ID":"WaPlantTest","Name":"Water Plant","pos":{"x":99.5128173828125,"y":80.98223114013672},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunWater.png","Type":14,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,1,2,3],"Functionality":"None","Params":""}

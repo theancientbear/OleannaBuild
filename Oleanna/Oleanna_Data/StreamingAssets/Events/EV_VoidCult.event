@@ -1,0 +1,39 @@
+{
+    "ID": "VoidCult",
+    "Type": 0,
+    "Name": "Void Cult",
+    "Description": "The profound isolation of deep space began to take its psychological toll. A nihilistic sect emerged, preaching a philosophy of entropy and cosmic meaninglessness. Driven by existential dread and a perverse sense of liberation, cult members began subtly sabotaging station systems, viewing their actions as a form of spiritual rebellion against the futility of their enclosed existence. Their ideology spread like a quiet, destructive whisper through the station's corridors.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Fuel:cons:2|Electronics:cons:2|Food:prod:3_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "CoPlantTest",
+    "Name": "Co Plant Test",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 16,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

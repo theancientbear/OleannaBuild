@@ -1,0 +1,12 @@
+{
+    "ID": "quantum_kinetic_simulations",
+    "Name": "Quantum kinetic simulations",
+    "Icon": "",
+    "Description": "Quantum kinetic simulations represent a revolutionary approach to modelling and predicting the behaviour of particles and energy at the quantum level. This technology combines advanced quantum computing, complex algorithms, and deep understanding of quantum mechanics to create incredibly accurate and detailed simulations of subatomic processes. These simulations enable unprecedented advancements in fields such as materials science, drug discovery, and energy research, allowing scientists to predict and manipulate quantum behaviour with extraordinary precision. ",
+    "Requirements": [
+        "tech:optimised_conductors",
+        "tech:field_generation_acceleration"
+    ],
+    "ResearchNeeded": 600.0,
+    "ResearchDone": 0.0
+}

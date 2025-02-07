@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Niki Chow",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard20",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 4.194416522979736,
+    "Extraversion": 50.55152893066406,
+    "Openness": 22.137989044189454,
+    "Agreeableness": 3.9560675621032717,
+    "Consientiousness": 84.17752075195313,
+    "ControllerData": ""
+}

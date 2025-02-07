@@ -1,0 +1,20 @@
+{
+    "itemType": 1,
+    "Name": "Quark Engine: Civil",
+    "Description": "",
+    "ID": "QuarkEngineRace",
+    "BasePrice": 120.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "Items/QuarkEngine.png",
+    "Quantity": 1,
+    "Weight": 20.0,
+    "Type": 0,
+    "MaxDurability": 0.0,
+    "Durability": 0.0,
+    "TechLevel": 0,
+    "ForwardThrust": 93.97076416015625,
+    "BackwardThrust": 59.85844421386719,
+    "SidewaysThrust": 57.77796173095703,
+    "DashCooldown": 2.0
+}

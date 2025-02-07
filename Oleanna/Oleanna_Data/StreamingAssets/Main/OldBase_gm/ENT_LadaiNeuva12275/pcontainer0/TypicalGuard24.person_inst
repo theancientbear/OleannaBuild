@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "[db:FirstNames] [db:SecondNames]",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214288
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard24",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 6.0449748039245609,
+    "Extraversion": 41.22572708129883,
+    "Openness": 15.920147895812989,
+    "Agreeableness": 8.913392066955567,
+    "Consientiousness": 64.9366455078125,
+    "ControllerData": ""
+}

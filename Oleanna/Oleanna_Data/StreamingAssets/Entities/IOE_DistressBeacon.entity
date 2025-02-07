@@ -1,0 +1,1 @@
+{"ID":"DistressBeacon","Scale":1.0,"Tags":"","Graphics":"pTest.png","Name":"Distress Beacon","SequenceToLaunch":"Quest_DistressBeacon","SequenceOnDeath":"","CanInteract":true,"Distance":10.0,"Health":20.0,"People":[]}

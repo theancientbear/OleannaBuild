@@ -1,0 +1,11 @@
+{
+    "ID": "test",
+    "Name": "Expansion with a luxury module",
+    "MoneyNeeded": 1.0,
+    "TimeNeeded": 12.0,
+    "TechLevel": 0.0,
+    "Tags": "test",
+    "ObjectToBuild": "LuPlantTest",
+    "Type": 0,
+    "pars": ""
+}

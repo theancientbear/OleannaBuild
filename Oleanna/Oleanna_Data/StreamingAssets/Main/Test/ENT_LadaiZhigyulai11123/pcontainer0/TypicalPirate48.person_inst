@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Sasha Tupuola",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate48",
+    "Money": 1227,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 57.798423767089847,
+    "Extraversion": 62.23735809326172,
+    "Openness": -51.280311584472659,
+    "Agreeableness": 21.289329528808595,
+    "Consientiousness": -24.812891006469728,
+    "ControllerData": ""
+}

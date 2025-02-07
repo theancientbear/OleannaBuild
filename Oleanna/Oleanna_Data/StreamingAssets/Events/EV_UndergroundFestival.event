@@ -1,0 +1,39 @@
+{
+    "ID": "UndergroundFestival",
+    "Type": 0,
+    "Name": "UndergroundFestival",
+    "Description": "Opportunistic smugglers saw an untapped potential in the station's monotonous routine. By organizing an underground rave powered by surplus illegal goods, they created a massive distraction that drew workers away from their assigned shifts. The festival became a pressure release valve for the station's pent-up tensions, a brief moment of chaos and freedom that simultaneously celebrated and undermined the established order.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#IllegalGoods:cons:3|LuxuryGoods:prod:2|Fuel:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Noor Kabore",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214224
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard44",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 3.3826847076416017,
+    "Extraversion": 55.92567825317383,
+    "Openness": 21.021989822387697,
+    "Agreeableness": 32.987178802490237,
+    "Consientiousness": 78.37744140625,
+    "ControllerData": ""
+}

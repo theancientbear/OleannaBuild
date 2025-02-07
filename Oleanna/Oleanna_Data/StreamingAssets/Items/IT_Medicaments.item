@@ -1,0 +1,14 @@
+{
+    "ID": "Medicaments",
+    "Name": "Medicaments",
+    "Description": "The most basic medicaments. Despite centuries of progress, they are still often in shortage.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "MedIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

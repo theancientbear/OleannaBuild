@@ -1,0 +1,14 @@
+{
+    "ID": "ConstructionGoods",
+    "Name": "Construction Goods",
+    "Description": "Concrete blocks and plexiglass panels, the basic materials for any construction.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "ConstructionIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

@@ -1,0 +1,15 @@
+{
+    "Emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": -1.0,
+        "Admiration": 0.0
+    },
+    "Condition": "",
+    "Description": "Well, only if you pay me something",
+    "NextMode": "",
+    "NextGoal": "",
+    "Sequence": "",
+    "SendToNext": "",
+    "ChangeCharacter": ""
+}

@@ -1,0 +1,12 @@
+{
+    "ID": "EquipShop",
+    "Name": "Expansion with a Workshop",
+    "MoneyNeeded": 8000.0,
+    "TimeNeeded": 8.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "EquipShopTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

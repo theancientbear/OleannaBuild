@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Tima Chaska",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214256
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader62",
+    "Money": 2239,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 13.534943580627442,
+    "Extraversion": 43.82494354248047,
+    "Openness": 44.899169921875,
+    "Agreeableness": 43.85907745361328,
+    "Consientiousness": -19.404327392578126,
+    "ControllerData": ""
+}

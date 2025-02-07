@@ -1,0 +1,1 @@
+{"ID":"ResourceShopTest","Name":"Resource Shop","pos":{"x":-162.49325561523438,"y":-108.89464569091797},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunMarket.png","Type":7,"race":0,"Purpose":0,"Effectivity":2.0,"DialogBackground":"","ConnectedModules":[0,3,4,8,11],"Functionality":"","Params":""}

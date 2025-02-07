@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "DefectorsDemise",
+    "Name": "Defector's Demise",
+    "Description": "Another rogue official has hijacked a ship and is threatening to leak the classified intel unless he gets good money. Your job is to locate and destroy the ship before he manages to do so. The #Reward# is generous enough to cover the risk. In these hard times our unity must be protected at all costs.",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "trader",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "The diplomatic ship has been neutralized, and the intel is safe once again and your payment has been processed. A job well done.\n",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

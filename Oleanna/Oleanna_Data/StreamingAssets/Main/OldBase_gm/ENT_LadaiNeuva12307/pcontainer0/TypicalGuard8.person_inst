@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Niki Bakhtiar",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214282
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard8",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 1.429600715637207,
+    "Extraversion": 51.93568420410156,
+    "Openness": 8.517791748046875,
+    "Agreeableness": 21.794275283813478,
+    "Consientiousness": 79.62989044189453,
+    "ControllerData": ""
+}

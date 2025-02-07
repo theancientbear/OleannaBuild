@@ -1,0 +1,11 @@
+{
+    "ID": "vacuum_explosives",
+    "Name": "Vacuum explosives",
+    "Icon": "",
+    "Description": "\n\nVacuum explosives represent a paradigm shift in explosive technology, designed to function with devastating efficiency in airless or near-airless environments. These advanced devices overcome the limitations of conventional explosives, which rely on atmospheric oxygen, by carrying their own oxidizers or utilizing exotic reaction mechanisms.\n\nThese explosives enable effective demolition, mining, or combat operations in space, on airless moons, or in sealed environments, revolutionizing both peaceful space exploration and military capabilities beyond Earth.\n",
+    "Requirements": [
+        "tech:resistant_electronics"
+    ],
+    "ResearchNeeded": 800.0,
+    "ResearchDone": 0.0
+}

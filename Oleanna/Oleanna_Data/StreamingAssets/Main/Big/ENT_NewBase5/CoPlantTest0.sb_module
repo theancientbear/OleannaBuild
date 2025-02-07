@@ -1,0 +1,1 @@
+{"ID":"CoPlantTest","Name":"Co Plant Test","pos":{"x":-758.4285888671875,"y":230.89566040039063},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunConstruction.png","Type":16,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,1,5,10,11],"Functionality":"None","Params":""}

@@ -1,0 +1,4 @@
+{
+    "ID": "EnterOleanna",
+    "Scr": "\n\n\nif(IsQuestTaken(\"StartQuest1\")) then\n   CompleteQuest(\"StartQuest1\")\n   AddQuest(\"StartQuest2\")\n\n   ent = FindEntityByID(\"NewBase\")\n\n   SetQuestTaker(\"StartQuest2\",ent)\n   CompleteQuestObjective(\"StartQuest2\")\nend"
+}

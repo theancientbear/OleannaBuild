@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "PettyRevenge",
+    "Name": "Petty Revenge",
+    "Description": "I’ve got a simple job for you. A Petty Revenge needs to be delivered to a rival corporation on #TargetBase#. It’s a small package, but the contents are… personal. You see, the sender is trying to get back at an old business partner who backed out of a deal. The item itself is harmless, but the note attached is something that’ll annoy them for weeks. All you need to do is drop it off at the office and leave. The #Reward# is yours—assuming the recipient doesn’t decide to make things more complicated than they need to be.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QPettyRevenge",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You’ve successfully made someone’s life a little bit more annoying. The recipient received the package, read the note, and promptly filed a formal complaint. Ah, bureaucracy. You’ve earned your pay, though; maybe spend it before they start digging deeper into who’s behind this.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "",
+    "emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "AIonly": false,
+    "Description": "Somebody, who was supposed to get the suitcase.\n\nI have no idea how you ended up like that, but let's get you out of here.\n"
+}

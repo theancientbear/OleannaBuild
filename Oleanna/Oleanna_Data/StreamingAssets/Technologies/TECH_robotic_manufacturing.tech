@@ -1,0 +1,11 @@
+{
+    "ID": "robotic_manufacturing",
+    "Name": "Robotic manufacturing",
+    "Icon": "",
+    "Description": "\n\nRobotic manufacturing represents a leap forward in production technology, seamlessly integrating advanced robotics, artificial intelligence, and automation into the manufacturing process. This technology transforms traditional production lines into highly efficient, adaptable, and precise systems capable of handling complex tasks with minimal human intervention.\n\nThe implementation of robotic manufacturing leads to significant improvements in productivity, product quality, and resource efficiency, while also allowing for mass customization. This was a necessity brought with the disappearance of the connection with the other human worlds.\n",
+    "Requirements": [
+        "tech:science_reorganisation"
+    ],
+    "ResearchNeeded": 200.0,
+    "ResearchDone": 0.0
+}

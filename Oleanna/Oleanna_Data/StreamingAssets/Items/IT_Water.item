@@ -1,0 +1,14 @@
+{
+    "ID": "Water",
+    "Name": "Water",
+    "Description": "Water extracted from floating ice. ",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "WaterIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

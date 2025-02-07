@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "ScreamingSculpture",
+    "Name": "Screaming Sculpture",
+    "Description": "Okay, so here’s your job: deliver this Screaming Sculpture to the #TargetBase#. It’s an art piece that screams. Loudly. Every. Single. Time. You. Move. It. Why? Because art. The gallery curator calls it a \"masterpiece of existential despair,\" but it sounds like a malfunctioning ship alarm to me. Avoid populated areas—unless you enjoy being interrogated about why your cargo is apparently in mortal agony. Get it there intact, and the #Reward# is yours. Also, invest in earplugs.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QScreamingSculpture",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You actually delivered it without causing a sector-wide uproar? Impressive. The gallery is thrilled, and the curator says the screaming has stopped now that it’s in place—thankfully for everyone’s ears. Your payment is sent. Nice work.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

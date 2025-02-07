@@ -1,0 +1,39 @@
+{
+    "ID": "SpaceCats",
+    "Type": 0,
+    "Name": "Space Cats",
+    "Description": "The station's genetic engineering program had always pushed boundaries, but no one anticipated the consequences of their feline modifications. The genetically enhanced cats, originally designed to be more efficient and adaptable, developed unprecedented levels of intelligence. In a shocking turn of events, they seized control of the agricultural module, effectively declaring it their sovereign territory. What began as a scientific experiment transformed into a bizarre power struggle between humans and their engineered feline companions.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Water:cons:1|Food:cons:2|Medicaments:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

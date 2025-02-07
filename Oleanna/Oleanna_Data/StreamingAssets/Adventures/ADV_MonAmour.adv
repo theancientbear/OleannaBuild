@@ -1,0 +1,45 @@
+{
+    "ID": "MonAmour",
+    "EntryPoint": "Start",
+    "ExitPoint": "",
+    "Locations": [
+        {
+            "ID": "Start",
+            "Description": "The entrance to the science station looks abandoned. :Description:",
+            "Illustration": "",
+            "Transitions": [
+                {
+                    "Destination": "Corr:0",
+                    "Condition": "",
+                    "Description": "Enter inside",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Leave:0",
+                    "Condition": "",
+                    "Description": "Leave the station and return next time",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "Corr",
+            "Description": "Inside the corridor you notice that after all the emergency reactors are still running.",
+            "Illustration": "",
+            "Transitions": [
+                {
+                    "Destination": "NN",
+                    "Condition": "",
+                    "Description": "",
+                    "Action": "\n\n\n"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        }
+    ]
+}

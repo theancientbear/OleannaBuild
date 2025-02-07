@@ -1,0 +1,12 @@
+{
+    "ID": "nanosupporting_structures",
+    "Name": "Nano-supporting structures",
+    "Icon": "",
+    "Description": "\n\nNano-supporting structures represent a revolutionary approach to materials engineering, utilizing nanotechnology to create frameworks and scaffolds that enhance the properties and functionalities of materials at the molecular level. These structures serve as the backbone for a new generation of smart materials, adaptive systems, and micro-scale devices.\n\nThese nano-supporting structures enable the development of materials with unprecedented strength-to-weight ratios, self-healing capabilities, and adaptive responses to environmental stimuli, revolutionizing fields from aerospace engineering to medical implants.\n",
+    "Requirements": [
+        "tech:vacuum_chambers",
+        "tech:decentralised_energy_systems"
+    ],
+    "ResearchNeeded": 1000.0,
+    "ResearchDone": 0.0
+}

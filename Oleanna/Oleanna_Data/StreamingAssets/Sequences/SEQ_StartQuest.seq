@@ -1,0 +1,4 @@
+{
+    "ID": "StartQuest",
+    "Scr": "GiveItem(\"FusionEngine\")\nAddQuest(\"StartQuest1\")\n\nent = FindEntityByID(\"OldBasePortalStart\")\n\nSetQuestTarget(\"StartQuest1\",ent)\n"
+}

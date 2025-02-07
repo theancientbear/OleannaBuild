@@ -1,0 +1,13 @@
+{
+    "ID": "Protect",
+    "templates": [
+        {
+            "type": 16,
+            "Arguments": "found#noncomm"
+        },
+        {
+            "type": 1,
+            "Arguments": "person_found"
+        }
+    ]
+}

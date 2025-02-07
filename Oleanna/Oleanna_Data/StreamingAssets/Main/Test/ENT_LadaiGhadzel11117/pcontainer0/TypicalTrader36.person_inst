@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Ari Tanaka",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader36",
+    "Money": 2358,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 11.021552085876465,
+    "Extraversion": 75.92843627929688,
+    "Openness": 27.239198684692384,
+    "Agreeableness": 48.01094055175781,
+    "Consientiousness": 12.930564880371094,
+    "ControllerData": ""
+}

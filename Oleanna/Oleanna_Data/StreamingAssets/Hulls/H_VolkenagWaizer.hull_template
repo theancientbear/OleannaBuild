@@ -1,0 +1,27 @@
+{
+    "ID": "VolkenagWaizer",
+    "Name": "Volkenag Waizer",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 600,
+    "SpaceSigma": 50,
+    "BasePrice": 2000,
+    "TechLevel": 1,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 900,
+    "Image": "VolkenagWaizer.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 660.0,
+    "Tags": "ForSell|Guard",
+    "Slots": [
+        0,
+        1,
+        2
+    ],
+    "AdditionalSlots": [],
+    "Conditions": [
+        "tech:metal_smelting"
+    ]
+}

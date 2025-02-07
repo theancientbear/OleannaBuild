@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Zhenya Bakhtiar",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214218
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard50",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 1.3684511184692383,
+    "Extraversion": 56.072914123535159,
+    "Openness": 24.19675636291504,
+    "Agreeableness": 28.937206268310548,
+    "Consientiousness": 64.9383773803711,
+    "ControllerData": ""
+}

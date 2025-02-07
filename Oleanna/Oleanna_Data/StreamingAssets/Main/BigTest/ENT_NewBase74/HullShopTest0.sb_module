@@ -1,0 +1,1 @@
+{"ID":"HullShopTest","Name":"Hull Shop","pos":{"x":31.790721893310548,"y":-286.1385192871094},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Harbour.png","Type":9,"race":0,"Purpose":0,"Effectivity":0.0,"DialogBackground":"","ConnectedModules":[0,3,5],"Functionality":"","Params":"Test"}

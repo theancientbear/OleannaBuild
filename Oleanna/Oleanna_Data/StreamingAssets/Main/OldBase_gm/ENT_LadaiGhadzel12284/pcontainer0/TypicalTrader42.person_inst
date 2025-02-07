@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Tamir Radoff",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214274
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader42",
+    "Money": 2096,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 12.101701736450196,
+    "Extraversion": 54.17057800292969,
+    "Openness": 39.44579315185547,
+    "Agreeableness": 83.59820556640625,
+    "Consientiousness": 2.8255252838134767,
+    "ControllerData": ""
+}

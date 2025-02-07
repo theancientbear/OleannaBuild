@@ -1,0 +1,12 @@
+{
+    "ID": "CoPlantTest",
+    "Name": "Expansion with a construction facility",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "CoPlantTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

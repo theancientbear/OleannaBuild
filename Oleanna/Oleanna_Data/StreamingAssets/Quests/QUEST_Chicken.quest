@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 100.0,
+    "ID": "Chicken",
+    "Name": "Cluck-Cluck",
+    "Description": "Hello, space courier. The payment of #Reward# hopefully will be enough. We have a delicate package that needs to be delivered to the 'Gamma Station' space base. Inside, you'll find a live space chicken. The base is running low on food supplies and they're hoping to breed their own. Now, we know what you're thinking: a space chicken? But trust us, this is the real deal. This chicken has been to space and back, and it's the perfect specimen for breeding. Just make sure it arrives alive and well. Good luck!  You can't help but wonder what kind of journey this chicken has been on. Has it seen the stars? Has it watched meteor showers from above? ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "SpaceChicken",
+    "Condition": "",
+    "TechProgress": "0",
+    "Tags": [
+        "basecommander",
+        "base"
+    ],
+    "OnFinish": "Congratulations, space courier. You have successfully delivered the space chicken teo the 'Gamma Station' space bas. Who knew that a space chicken could bring so much joy? ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

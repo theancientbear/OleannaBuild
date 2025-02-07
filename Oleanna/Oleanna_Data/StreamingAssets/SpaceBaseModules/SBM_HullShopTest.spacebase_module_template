@@ -1,0 +1,11 @@
+{
+    "ID": "HullShopTest",
+    "Name": "Harbour",
+    "Graphics": "Modules/HullShop.png",
+    "Type": 9,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 0.0,
+    "DialogBackground": "",
+    "Params": "ForSell"
+}

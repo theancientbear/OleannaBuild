@@ -1,0 +1,29 @@
+{
+    "ID": "QuarkEngineRace",
+    "Name": "Quark Engine: Civil",
+    "Description": "Quark combustion technique improves the output of the engine, despite making it slighlty more expensive,",
+    "ItemType": 1,
+    "BasePrice": 550.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "Items/QuarkEngine.png",
+    "Tags": "ForSell",
+    "MeanWeight": 20.0,
+    "SigmaWeight": 0.0,
+    "Conditions": [
+        "tech:accumulator_manifacturing"
+    ],
+    "Type": 0,
+    "Modifiers": [],
+    "DurabilityBase": 200.0,
+    "DurabilitySigma": 80.0,
+    "Producer": "",
+    "TechLevel": 0,
+    "ForwardSpeedBase": 95.0,
+    "SidewaysSpeedBase": 55.0,
+    "BackwardSpeedBase": 50.0,
+    "ForwardSpeedSigma": 5.0,
+    "SidewaysSpeedSigma": 10.0,
+    "BackwardSpeedSigma": 10.0,
+    "DashCooldown": 2.0
+}

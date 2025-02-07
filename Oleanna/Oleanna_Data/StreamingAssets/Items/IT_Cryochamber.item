@@ -1,0 +1,14 @@
+{
+    "ID": "Cryochamber",
+    "Name": "Cryochamber",
+    "Description": "Seemingly high-technological, the chamber makes you wonder about the purpose of all that insulating tape.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

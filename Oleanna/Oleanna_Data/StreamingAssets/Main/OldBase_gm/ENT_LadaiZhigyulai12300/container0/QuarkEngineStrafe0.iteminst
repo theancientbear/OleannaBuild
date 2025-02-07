@@ -1,0 +1,20 @@
+{
+    "itemType": 1,
+    "Name": "Quark Engine: Military",
+    "Description": "",
+    "ID": "QuarkEngineStrafe",
+    "BasePrice": 120.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "Items/QuarkEngine.png",
+    "Quantity": 1,
+    "Weight": 20.0,
+    "Type": 0,
+    "MaxDurability": 0.0,
+    "Durability": 0.0,
+    "TechLevel": 0,
+    "ForwardThrust": 80.50639343261719,
+    "BackwardThrust": 62.08085632324219,
+    "SidewaysThrust": 71.78141021728516,
+    "DashCooldown": 1.5
+}

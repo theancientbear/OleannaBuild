@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Arya Chow",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard14",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 9.10815143585205,
+    "Extraversion": 48.358577728271487,
+    "Openness": 16.358436584472658,
+    "Agreeableness": 26.927581787109376,
+    "Consientiousness": 60.24403762817383,
+    "ControllerData": ""
+}

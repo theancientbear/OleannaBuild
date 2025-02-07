@@ -1,0 +1,1 @@
+{"ID":"TestBaseModules","ModuleLinks":["SBM_TestCommandModule1","SBM_HullShopTest","SBM_EquipShopTest","SBM_ResourceShopTest","SBM_PopulationTest","SBM_PopulationTest"],"RacialIdentity":0,"GenerationType":0,"ConnectionImage":"YahrunConnection","CharDistance":30.0,"Randomness":10.0,"GenPar1":0.0,"GenPar2":0.0,"GenPar3":0.0,"Tags":"base","BaseNameDB":"{BaseNames}"}

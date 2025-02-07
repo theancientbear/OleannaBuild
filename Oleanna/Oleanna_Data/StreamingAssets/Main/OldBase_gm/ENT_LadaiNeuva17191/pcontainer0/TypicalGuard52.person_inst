@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Ari Novak",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214216
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard52",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 3.836043357849121,
+    "Extraversion": 51.574684143066409,
+    "Openness": 6.9448113441467289,
+    "Agreeableness": 29.9932804107666,
+    "Consientiousness": 84.90074157714844,
+    "ControllerData": ""
+}

@@ -1,0 +1,104 @@
+{
+    "ID": "StartAdv",
+    "EntryPoint": "Start",
+    "ExitPoint": "Finish",
+    "Locations": [
+        {
+            "ID": "Start",
+            "Description": "You find yourself attached to the chair, with wires going all over you. \n\nA bald man of threatening appearance murmurs in your ear:\n\n\"So, what is the code, darling\"\n\nYou realise that it is somehow connected to the suitcase standing in the further corner\n\n",
+            "Illustration": "Adventure/Kitchen.png",
+            "Transitions": [
+                {
+                    "Destination": "Case:0",
+                    "Condition": "",
+                    "Description": "Eh, I don't know?",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "Case",
+            "Description": "The answer does not satisfy your friend, and he pushes a button.\n\nThe electric current of considerable strength puses through your body\n\n",
+            "Illustration": "Adventure/Kitchen.png",
+            "Transitions": [
+                {
+                    "Destination": "Case2:0",
+                    "Condition": "",
+                    "Description": "Aaaah!",
+                    "Action": ""
+                }
+            ],
+            "States": []
+        },
+        {
+            "ID": "Case2",
+            "Description": "\"How many times do we need to repeat this? Just give me the goddamn code!\"\n\n",
+            "Illustration": "Adventure/Kitchen.png",
+            "Transitions": [
+                {
+                    "Destination": "Case:0",
+                    "Condition": "",
+                    "Description": "I don't know!",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Case:0",
+                    "Condition": "",
+                    "Description": "Why do you think I know it?",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Case3:0",
+                    "Condition": "",
+                    "Description": "(Give a random code.)",
+                    "Action": ""
+                }
+            ],
+            "States": []
+        },
+        {
+            "ID": "Case3",
+            "Description": "You have decided to give a random code from the top of your head.\n\nFinally satisfied, he runs off to the suitcase.\n\n",
+            "Illustration": "Adventure/Kitchen.png",
+            "Transitions": [
+                {
+                    "Destination": "Explosion:0",
+                    "Condition": "",
+                    "Description": "(Sit and watch)",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "Explosion",
+            "Description": "As soon as he reaches is, the suitcase explodes, spreading the remains of your tormentor all over the room. The blast has knocked your chair off and broke it.\nAt least it gives you an opportunity to untie yourself. ",
+            "Illustration": "Adventure/Explosion.png",
+            "Transitions": [
+                {
+                    "Destination": "End:0",
+                    "Condition": "",
+                    "Description": "Huh...",
+                    "Action": "StartSequenceWithDelay(\"dyn:StartAbstractDialog(\\\"P_Q_Antibiotik\\\",\\\"Intro_Antibiotik\\\")\",1)\n\npos = GetPlayerPosition()\n\nCreateExplosion(pos)"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "End",
+            "Description": "",
+            "Illustration": "",
+            "Transitions": [],
+            "States": [
+                " "
+            ]
+        }
+    ]
+}

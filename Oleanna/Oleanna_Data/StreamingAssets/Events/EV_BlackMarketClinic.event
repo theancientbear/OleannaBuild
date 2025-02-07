@@ -1,0 +1,39 @@
+{
+    "ID": "BlackMarketClinic",
+    "Type": 0,
+    "Name": "Black Market Clinic",
+    "Description": "In response to chronic medicament shortages, a rogue medic established an underground healthcare facility. Operating with dubious equipment and unlicensed treatments, the clinic became a lifeline for crew members desperate for medical attention. It was a high-risk, high-reward operation that challenged the station's official medical protocols while providing critical care to those most in need.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Medicaments:prod:2|IllegalGoods:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

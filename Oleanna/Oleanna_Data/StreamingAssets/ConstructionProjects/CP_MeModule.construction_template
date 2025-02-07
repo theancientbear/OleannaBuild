@@ -1,0 +1,12 @@
+{
+    "ID": "MeModule",
+    "Name": "Expansion with a metal plant",
+    "MoneyNeeded": 3000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "test",
+    "ObjectToBuild": "MePlantTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

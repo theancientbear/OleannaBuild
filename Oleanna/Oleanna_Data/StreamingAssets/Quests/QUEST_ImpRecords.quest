@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "ImpRecords",
+    "Name": "\"Improved\" Records",
+    "Description": "Alright, here's a fun one. The factory’s getting a Surprise Inspection, but the paperwork is… let’s say “incomplete.” You need to deliver some *improved* records to the inspector before they start poking around too much. Time’s tight, and let’s be honest, it won’t take long for them to find out something’s wrong. Pull this off, and you’ll get #Reward# and a nice bonus for avoiding any awkward questions. ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QImpRecords",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Nice work! The inspector didn’t even blink at the new paperwork. The factory's safe for now, and you're a hero—for today, at least. Here’s your reward. Let’s hope they don’t ask for a follow-up inspection anytime soon. ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

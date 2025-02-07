@@ -1,0 +1,1 @@
+{"ID":"ActualStart","ShipLink":"SH_StartShip","PersonLink":"P_TypicalGuard","Tags":"playerprofile","TechnologicalLevel":0.0,"Description":"This is for testing with the starting sequence","SequenceToLaunch":"StartGameSequence","MapToStart":"Start"}

@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "LostLuggage",
+    "Name": "Lost Luggage",
+    "Description": "A box of Lost Luggage needs to be delivered to the transit depot on #TargetBase#. It’s been missing for decades—no one’s even sure what’s inside anymore. The system’s record shows it's from a long-forgotten interstellar flight, and frankly, no one cares about it anymore except for the passenger who filed the claim. Just get it there, and don’t let anyone open it. We’ve had situations in the past with people getting way too curious. Deliver it, and the #Reward# is yours, unless you find yourself in a bureaucratic nightmare, of course.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QLostLuggage",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You actually managed to get it delivered without triggering a mass lawsuit? Incredible. The passenger picked it up, said “finally” and left without asking any questions. You’ve earned your pay, and I hope you get to forget about this one as quickly as they did.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Zhenya Kabore",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214292
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard24",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 9.873381614685059,
+    "Extraversion": 50.5725212097168,
+    "Openness": 10.187360763549805,
+    "Agreeableness": 28.017553329467775,
+    "Consientiousness": 63.98066711425781,
+    "ControllerData": ""
+}

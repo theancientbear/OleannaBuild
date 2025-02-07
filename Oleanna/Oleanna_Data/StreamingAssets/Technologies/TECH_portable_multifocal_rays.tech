@@ -1,0 +1,11 @@
+{
+    "ID": "portable_multifocal_rays",
+    "Name": "Portable multifocal rays",
+    "Icon": "",
+    "Description": "\n\nPortable multifocal arrays miniaturize and mobilize the power of multifocal ray technology, creating compact, deployable systems capable of projecting multiple, precisely controlled energy beams. This technology combines advanced energy manipulation, miniaturization, and power management to deliver unprecedented capabilities in a mobile platform.\n\nThese portable arrays have diverse applications, from mobile communications and emergency response to field research and tactical operations, bringing the power of multifocal energy projection to any environment.\n",
+    "Requirements": [
+        "tech:multifocal_rays"
+    ],
+    "ResearchNeeded": 800.0,
+    "ResearchDone": 0.0
+}

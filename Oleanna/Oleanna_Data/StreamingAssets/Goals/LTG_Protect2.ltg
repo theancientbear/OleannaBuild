@@ -1,0 +1,17 @@
+{
+    "ID": "Protect2",
+    "templates": [
+        {
+            "type": 14,
+            "Arguments": "random"
+        },
+        {
+            "type": 16,
+            "Arguments": "station_found#noncomm"
+        },
+        {
+            "type": 1,
+            "Arguments": "person_found"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Noor Temir",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader28",
+    "Money": 2852,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 11.656376838684082,
+    "Extraversion": 83.26708984375,
+    "Openness": 26.646381378173829,
+    "Agreeableness": 79.69062042236328,
+    "Consientiousness": 18.685026168823243,
+    "ControllerData": ""
+}

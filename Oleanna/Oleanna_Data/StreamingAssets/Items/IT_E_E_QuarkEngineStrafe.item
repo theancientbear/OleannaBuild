@@ -1,0 +1,29 @@
+{
+    "ID": "QuarkEngineStrafe",
+    "Name": "Quark Engine: Military",
+    "Description": "Quark combustion technique improves the output of the engine, despite making it slighlty more expensive,",
+    "ItemType": 1,
+    "BasePrice": 550.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "Items/QuarkEngine.png",
+    "Tags": "ForSell",
+    "MeanWeight": 20.0,
+    "SigmaWeight": 0.0,
+    "Conditions": [
+        "tech:accumulator_manifacturing"
+    ],
+    "Type": 0,
+    "Modifiers": [],
+    "DurabilityBase": 200.0,
+    "DurabilitySigma": 50.0,
+    "Producer": "",
+    "TechLevel": 0,
+    "ForwardSpeedBase": 80.0,
+    "SidewaysSpeedBase": 75.0,
+    "BackwardSpeedBase": 60.0,
+    "ForwardSpeedSigma": 5.0,
+    "SidewaysSpeedSigma": 5.0,
+    "BackwardSpeedSigma": 5.0,
+    "DashCooldown": 1.5
+}

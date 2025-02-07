@@ -1,0 +1,11 @@
+{
+    "ID": "selfrepairing_machines",
+    "Name": "Self-repairing machines",
+    "Icon": "",
+    "Description": "\n\nSelf-repairing machines represent the pinnacle of autonomous maintenance and longevity in mechanical and electronic systems. These advanced devices incorporate cutting-edge materials, nanoscale robotics, and AI to detect, diagnose, and repair damage or wear in real-time, without the need for external intervention.\n\nThis technology revolutionizes the reliability and lifespan of everything from consumer electronics to space exploration vehicles, enabling the creation of systems that can operate indefinitely in harsh or inaccessible environments.\n",
+    "Requirements": [
+        "tech:quantum_tunneling_diagnostics"
+    ],
+    "ResearchNeeded": 900.0,
+    "ResearchDone": 0.0
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "",
+    "emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "AIonly": false,
+    "Description": "Hi, ehmm, I am sorry, I am a little bit busy, right now. But your help will be more than appreciated!"
+}

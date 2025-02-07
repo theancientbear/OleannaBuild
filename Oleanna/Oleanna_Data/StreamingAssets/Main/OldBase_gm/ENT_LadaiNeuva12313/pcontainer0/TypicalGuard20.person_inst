@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Kai Karimi",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214300
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard20",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 5.96005392074585,
+    "Extraversion": 55.08185958862305,
+    "Openness": 9.98373794555664,
+    "Agreeableness": 22.240158081054689,
+    "Consientiousness": 81.3458480834961,
+    "ControllerData": ""
+}

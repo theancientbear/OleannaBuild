@@ -1,0 +1,11 @@
+{
+    "ID": "advanced_mining",
+    "Name": "Advanced mining",
+    "Icon": "",
+    "Description": "\n\nAdvanced mining technology represents a quantum leap in resource extraction and processing, combining cutting-edge robotics, AI, and molecular manipulation to revolutionize how materials are obtained and refined. This system goes beyond traditional excavation, allowing for precision extraction of resources at the atomic level with minimal environmental impact.\n\nThis technology not only increases the efficiency and yield of resource extraction but also opens up new possibilities for obtaining previously unattainable or rare materials, transforming industries from manufacturing to space exploration.\n",
+    "Requirements": [
+        "tech:resistant_electronics"
+    ],
+    "ResearchNeeded": 1000.0,
+    "ResearchDone": 0.0
+}

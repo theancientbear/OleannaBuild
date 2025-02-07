@@ -1,0 +1,1 @@
+{"ID":"PopulationTest","Name":"PopulationTest","pos":{"x":-338.38848876953127,"y":192.08938598632813},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/PopulationModule.png","Type":4,"race":2,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,1,2,3,5],"Functionality":"None","Params":""}

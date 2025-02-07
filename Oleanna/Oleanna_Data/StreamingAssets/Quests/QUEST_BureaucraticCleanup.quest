@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "BureaucraticCleanup",
+    "Name": "Bureaucratic Cleanup",
+    "Description": "The local government has \"accidentally\" sold a decommissioned patrol ship to a local crime syndicate during a budgetary 'miscommunication.' Naturally, they want to erase the evidence—before the next audit, of course. Your job is to find and destroy the ship, ensuring this little 'accounting error' doesn’t make the news. The #Reward# will more than cover the fuel costs.\n",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "guard",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Well done! The patrol ship is now nothing but floating debris, and the Ministry is breathing a sigh of relief. Payment’s wired—just don’t ask where the funding came from.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

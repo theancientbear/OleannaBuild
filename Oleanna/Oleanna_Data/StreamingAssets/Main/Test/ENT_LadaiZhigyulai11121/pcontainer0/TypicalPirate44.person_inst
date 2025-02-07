@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Indra Kovalenko",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate44",
+    "Money": 1546,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 75.609375,
+    "Extraversion": 45.08051681518555,
+    "Openness": -57.699615478515628,
+    "Agreeableness": 17.36376953125,
+    "Consientiousness": -38.9346923828125,
+    "ControllerData": ""
+}

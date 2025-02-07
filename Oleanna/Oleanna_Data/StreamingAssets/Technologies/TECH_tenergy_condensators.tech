@@ -1,0 +1,12 @@
+{
+    "ID": "tenergy_condensators",
+    "Name": "T-energy condensators",
+    "Icon": "",
+    "Description": "\n\nT-energy condensators are cutting-edge devices designed to capture, store, and release immense amounts of energy in forms beyond conventional understanding. This technology harnesses exotic particles or states of matter to achieve energy densities and manipulation capabilities far surpassing traditional power sources.\n\nThese condensators revolutionize energy storage and usage across all scales, from powering entire cities with devices the size of batteries to enabling new forms of space propulsion and weapons technology.\n",
+    "Requirements": [
+        "tech:portable_multifocal_rays",
+        "tech:optimised_quantum_transfer"
+    ],
+    "ResearchNeeded": 800.0,
+    "ResearchDone": 0.0
+}

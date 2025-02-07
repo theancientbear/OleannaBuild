@@ -1,0 +1,12 @@
+{
+    "ID": "magnetic_field_concentrators",
+    "Name": "Magnetic field concentrators",
+    "Icon": "",
+    "Description": "\n\nMagnetic field concentrators are advanced devices capable of amplifying, shaping, and precisely directing magnetic fields with unprecedented power and control. This technology pushes the boundaries of electromagnetism, enabling the manipulation of magnetic fields at intensities and scales previously thought impossible.\n\nThese concentrators have wide-ranging applications, from next-generation medical imaging and materials processing to advanced propulsion systems and fundamental particle research.\n",
+    "Requirements": [
+        "tech:field_generation_acceleration",
+        "tech:protective_energy_fields"
+    ],
+    "ResearchNeeded": 700.0,
+    "ResearchDone": 0.0
+}

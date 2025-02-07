@@ -1,0 +1,1 @@
+{"ID":"EquipShopTest","Name":"Equipment Shop Test","pos":{"x":386.2107849121094,"y":-988.1524047851563},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunWorkshop.png","Type":5,"race":0,"Purpose":0,"Effectivity":10.0,"DialogBackground":"","ConnectedModules":[0,2,3,4,6,8],"Functionality":"","Params":"Test"}

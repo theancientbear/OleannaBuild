@@ -1,0 +1,1 @@
+{"ID":"ResourceShopTest","Name":"Resource Shop","pos":{"x":-955.1209106445313,"y":886.8535766601563},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"ResourceShop.png","Type":7,"race":0,"Purpose":0,"Effectivity":2.0,"DialogBackground":"","ConnectedModules":[0,2,4],"Functionality":"","Params":""}

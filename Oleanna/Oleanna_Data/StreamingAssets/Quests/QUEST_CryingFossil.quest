@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "CryingFossil",
+    "Name": "Crying Fossil",
+    "Description": "You’re delivering a Crying Fossil from the Sedina Fossil Lab. Don’t ask me what makes it cry, I’m guessing it’s the existential dread of being stuck in a rock for a few million years. The thing weeps like a child with a stubbed toe, so keep it stable—and quiet—if you don’t want to get complaints. The client wants it delivered to the #TargetBase# for further \"studies\"—and I use that term loosely. Keep it intact, and the #Reward# is yours.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QCryingFossil",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You actually got it there? Without triggering a sector-wide emotional breakdown? The client’s happy, and the fossil’s apparently “just misunderstood.” Payment sent. Maybe buy yourself something soothing—like a rock that doesn’t cry.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

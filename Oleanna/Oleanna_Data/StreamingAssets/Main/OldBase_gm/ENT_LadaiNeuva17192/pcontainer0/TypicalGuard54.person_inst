@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Vali Adebayo",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214214
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard54",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 3.7705202102661135,
+    "Extraversion": 54.065025329589847,
+    "Openness": 24.653221130371095,
+    "Agreeableness": 42.0229606628418,
+    "Consientiousness": 60.24258041381836,
+    "ControllerData": ""
+}

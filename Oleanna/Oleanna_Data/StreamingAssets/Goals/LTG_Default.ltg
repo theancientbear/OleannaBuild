@@ -1,0 +1,9 @@
+{
+    "ID": "Default",
+    "templates": [
+        {
+            "type": 0,
+            "Arguments": "Test"
+        }
+    ]
+}

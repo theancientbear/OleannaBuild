@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "CommuneTrafficker",
+    "Name": "Commune Trafficker",
+    "Description": "One cargo freighter decided that he is free to traffic the terrorists from the Commune. The authorities don’t want to risk a political scandal, so they’re hiring you to quietly 'resolve' the issue. Destroy the freighter before it causes any problem. The #Reward# is yours—no questions asked.\n",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "trader",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Good job. Payment’s been sent—don’t mention this job to anyone.\n",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

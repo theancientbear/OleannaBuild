@@ -1,0 +1,11 @@
+{
+    "ID": "PopulationTest",
+    "Name": "PopulationTest",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 4,
+    "race": 2,
+    "Purpose": 0,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

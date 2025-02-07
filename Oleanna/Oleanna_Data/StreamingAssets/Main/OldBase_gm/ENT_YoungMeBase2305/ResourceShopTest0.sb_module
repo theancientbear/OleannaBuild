@@ -1,0 +1,1 @@
+{"ID":"ResourceShopTest","Name":"Market","pos":{"x":-588.1298217773438,"y":-194.47891235351563},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/MarketModule.png","Type":7,"race":0,"Purpose":0,"Effectivity":2.0,"DialogBackground":"","ConnectedModules":[0,1,2,3],"Functionality":"","Params":""}

@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "HFCanister",
+    "Name": "Hyper-Fuel Canister",
+    "Description": "Alright, this one’s got *explosive* potential. You’re hauling a Hyper-Fuel Canister. Yeah, that’s right, the kind that powers the biggest ships but could also take out half a space station if it leaks. No pressure though! Just keep it cool, don’t let it bump into anything, and try not to park next to anything flammable. Get it to a fueling station, and you’ll walk away with #Reward# and, fingers crossed, all your limbs. ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QHFCanister",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Well done! Not a scratch on you or the fuel, and the fueling station’s back in business. They’re over the moon—pun intended. Here’s your payout, mate. Maybe spend it on something flameproof, just in case. ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "PowerConvertor",
+    "Name": "Malfunctioning Power Converter",
+    "Description": "The local power plant is running on fumes because their Power Converter is on its last legs. Your job? Deliver a new one before the whole district goes dark. It’s delicate, though, so try not to break it on the way. If you manage to keep the lights on, you’ll get #Reward#—and the gratitude of everyone who didn’t have to sit in the dark for a week. ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QPowerConvertor",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Nice job. The converter is installed, and the power’s back on. You’ve saved us from a blackout. Here’s your reward—consider yourself the hero of the day. Just don’t tell anyone it was almost your fault they lost power. ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

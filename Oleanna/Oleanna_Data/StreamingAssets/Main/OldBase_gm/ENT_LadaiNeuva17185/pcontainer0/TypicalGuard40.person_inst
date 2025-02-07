@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Adi Adebayo",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214228
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard40",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 3.4516196250915529,
+    "Extraversion": 44.88252639770508,
+    "Openness": 26.843780517578126,
+    "Agreeableness": 44.118507385253909,
+    "Consientiousness": 62.03013610839844,
+    "ControllerData": ""
+}

@@ -1,0 +1,15 @@
+{
+    "Emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 1000.0,
+        "Admiration": 0.0
+    },
+    "Condition": "FormHirePrices",
+    "Description": "Sure thing",
+    "NextMode": "",
+    "NextGoal": "",
+    "Sequence": "",
+    "SendToNext": "",
+    "ChangeCharacter": ""
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Arman Kowalski",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214212
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard56",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.359572649002075,
+    "Extraversion": 55.26266860961914,
+    "Openness": 27.56816291809082,
+    "Agreeableness": 15.517189979553223,
+    "Consientiousness": 79.75053405761719,
+    "ControllerData": ""
+}

@@ -1,0 +1,17 @@
+{
+    "Type": 3,
+    "TimeToComplete": 0.0,
+    "ID": "StartQuest1",
+    "Name": "Far far away...",
+    "Description": "Get to the Oleanna star system.",
+    "Objective": "Get to Oleanna.",
+    "Reward": 0.0,
+    "ObjectInQuestion": "",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [],
+    "OnFinish": "Good job.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

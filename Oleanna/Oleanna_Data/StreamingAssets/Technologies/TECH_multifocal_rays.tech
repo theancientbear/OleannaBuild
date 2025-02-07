@@ -1,0 +1,12 @@
+{
+    "ID": "multifocal_rays",
+    "Name": "Multifocal Rays",
+    "Icon": "",
+    "Description": "\n\nMultifocal rays represent a leap forward in directed energy technology, allowing for the simultaneous projection and control of multiple high-energy beams. This advanced system can focus various types of energy - electromagnetic, particle, or even more exotic forms - into precisely coordinated rays for a wide range of applications.\n\nThis technology revolutionizes fields such as communications, energy transmission, manufacturing, and defense, offering unprecedented precision and flexibility in energy projection and manipulation.\n",
+    "Requirements": [
+        "tech:magnetic_field_concentrators",
+        "tech:quantum_kinetic_simulations"
+    ],
+    "ResearchNeeded": 700.0,
+    "ResearchDone": 0.0
+}

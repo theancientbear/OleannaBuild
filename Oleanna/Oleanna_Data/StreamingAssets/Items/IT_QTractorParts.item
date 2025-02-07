@@ -1,0 +1,14 @@
+{
+    "ID": "QTractorParts",
+    "Name": "Tractor Parts",
+    "Description": "You would think that space habitats would employ some more advanced farming techniques. Yeah...",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

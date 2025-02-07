@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Taye Karimi",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader26",
+    "Money": 2528,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 15.476572036743164,
+    "Extraversion": 54.33062744140625,
+    "Openness": 40.620887756347659,
+    "Agreeableness": 74.9342269897461,
+    "Consientiousness": -6.885593414306641,
+    "ControllerData": ""
+}

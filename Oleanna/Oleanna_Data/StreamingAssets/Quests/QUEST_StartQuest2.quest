@@ -1,0 +1,17 @@
+{
+    "Type": 3,
+    "TimeToComplete": 0.0,
+    "ID": "StartQuest2",
+    "Name": "Far far away...",
+    "Description": "Get to the station and figure out what to do next.",
+    "Objective": "Get to the station.",
+    "Reward": 1000.0,
+    "ObjectInQuestion": "",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [],
+    "OnFinish": "Hey there! We got a message from Victor, that you were supposed to arrive. He has also kindly asked us to provide you with some money. Unfortunately, that is all we can tell. In case you meet him again, would you mind to throw in a word for us?",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

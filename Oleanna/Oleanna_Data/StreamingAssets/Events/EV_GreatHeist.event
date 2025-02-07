@@ -1,0 +1,39 @@
+{
+    "ID": "GreatHeist",
+    "Type": 0,
+    "Name": "The Great Heist",
+    "Description": "Inspired by classic heist narratives, a group of disgruntled crew members orchestrated an elaborate plan to redistribute the station's luxury goods. With military-like precision and insider knowledge, they executed a stunning theft that exposed the massive security vulnerabilities in the station's most guarded storage areas. The heist was part rebellion, part performance art - a bold statement against the station's rigid social hierarchies.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#LuxuryGoods:cons:3|IllegalGoods:prod:2|Metals:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

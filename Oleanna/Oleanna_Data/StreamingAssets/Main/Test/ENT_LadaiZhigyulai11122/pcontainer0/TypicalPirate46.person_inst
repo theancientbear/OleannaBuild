@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Ravi Radoff",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate46",
+    "Money": 926,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 51.31717300415039,
+    "Extraversion": 51.24051284790039,
+    "Openness": -65.9561767578125,
+    "Agreeableness": -6.103217124938965,
+    "Consientiousness": -24.61655616760254,
+    "ControllerData": ""
+}

@@ -1,0 +1,12 @@
+{
+    "ID": "high_energy_focalisation",
+    "Name": "High energy focalisation",
+    "Icon": "",
+    "Description": "\n\nHigh energy focalisation is an advanced technology that allows for the precise concentration and direction of enormous amounts of energy into extremely focused beams or points. This technology combines breakthroughs in physics, materials science, and energy manipulation to achieve levels of energy density previously thought impossible.\n\nApplications of this technology range from cutting-edge scientific instruments and industrial tools to advanced defense systems and space propulsion technologies.\n",
+    "Requirements": [
+        "tech:hybrid_alloys",
+        "tech:accumulator_manufacturing"
+    ],
+    "ResearchNeeded": 500.0,
+    "ResearchDone": 0.0
+}

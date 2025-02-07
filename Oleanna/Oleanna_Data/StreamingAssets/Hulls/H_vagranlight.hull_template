@@ -1,0 +1,23 @@
+{
+    "ID": "vagranlight",
+    "Name": "Vagrant Light",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 1000,
+    "SpaceSigma": 70,
+    "BasePrice": 1000,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 1000,
+    "Image": "Hulls/VagrantLight.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 5.0,
+    "Tags": "",
+    "Slots": [
+        0
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

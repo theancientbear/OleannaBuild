@@ -1,0 +1,17 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "",
+    "Name": "",
+    "Description": "",
+    "Objective": "",
+    "Reward": 0.0,
+    "ObjectInQuestion": "",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [],
+    "OnFinish": "",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

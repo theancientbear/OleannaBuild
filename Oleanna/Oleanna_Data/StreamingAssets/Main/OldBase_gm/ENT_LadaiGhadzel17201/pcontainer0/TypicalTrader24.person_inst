@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Tamir Kahale",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader24",
+    "Money": 2539,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 19.17909812927246,
+    "Extraversion": 80.57058715820313,
+    "Openness": 32.06172180175781,
+    "Agreeableness": 48.87913131713867,
+    "Consientiousness": 10.408658981323243,
+    "ControllerData": ""
+}

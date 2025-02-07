@@ -1,0 +1,21 @@
+{
+    "Type": 3,
+    "TimeToComplete": 0.0,
+    "ID": "LostShip",
+    "Name": "Lost Ship",
+    "Description": "Has it ever happened to you to meet during your travels the empty ships, where the crew has died because of the faulty air supply or other reasons? I know, that these days it almost does not happen, but you know. Well, today we have to ask you to find and have a look inside one of such abandoned ships. It is the one from the previous colonization attempt of Oleanna, and belonged to one of the officials from the The Expansion Committee. The comms died, and he was left in the system when the Gate was closed. I highly doubt they were able to survive throughout all of these years, but we have registered a signal with this ship's signature, asking for assistance. Maybe it is just the comms acting strangely, but please, go and take a look at it. The payment will be more than generous. ",
+    "Objective": "Explore the abandoned vessel.",
+    "Reward": 1000.0,
+    "ObjectInQuestion": "",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander",
+        "unique"
+    ],
+    "OnFinish": "So, how did it go? You say, the ship exploded? And that it was occupied by a monster? And that it has almost managed to kill you? Oh my…Well, that is going to be difficult to put into a report, We will redirect your data to the higher-ups. Try to evade talking about that incident, until further investigation. We will send a crew of proper professionals to look at the site immediately.And here is your payment of course, with some bonus to pay for a therapist.",
+    "SequenceOnStart": "Quest_CreateLostShip",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

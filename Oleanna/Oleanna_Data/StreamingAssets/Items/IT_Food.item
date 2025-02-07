@@ -1,0 +1,14 @@
+{
+    "ID": "Food",
+    "Name": "Food",
+    "Description": "Synthetic food. Tastes like rubber, but nutritious.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "FoodIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

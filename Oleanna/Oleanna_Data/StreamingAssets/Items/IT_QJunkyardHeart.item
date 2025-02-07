@@ -1,0 +1,14 @@
+{
+    "ID": "QJunkyardHeart",
+    "Name": "Junkyard Heart",
+    "Description": "Somehow it is giving you the chills, as it does not look realistic enough to fool you, but enough to imagine it beating.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

@@ -1,0 +1,12 @@
+{
+    "ID": "ElModule",
+    "Name": "Expansion with an electric factory",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "ElFactTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

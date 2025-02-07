@@ -1,0 +1,11 @@
+{
+    "ID": "quantum_tunneling_diagnostics",
+    "Name": "Quantum tunneling diagnostics",
+    "Icon": "",
+    "Description": "\n\nQuantum tunneling diagnostics harness the principles of quantum mechanics to develop incredibly sensitive and non-invasive scanning and analysis technologies. This advanced system uses the quantum tunneling effect to probe and interact with matter at the subatomic level, providing unprecedented insight into the structure and properties of materials and systems.\n\nThis technology revolutionizes fields such as materials science, medical diagnostics, and quantum computing, enabling new levels of understanding and control over matter at its most fundamental level.\n",
+    "Requirements": [
+        "tech:optimised_quantum_transfer"
+    ],
+    "ResearchNeeded": 800.0,
+    "ResearchDone": 0.0
+}

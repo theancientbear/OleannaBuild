@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Nurai Chaska",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214230
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard38",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 9.204368591308594,
+    "Extraversion": 53.36751937866211,
+    "Openness": 19.178598403930665,
+    "Agreeableness": 9.337102890014649,
+    "Consientiousness": 84.4072494506836,
+    "ControllerData": ""
+}

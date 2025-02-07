@@ -1,0 +1,11 @@
+{
+    "ID": "optimised_conductors",
+    "Name": "Optimised conductors",
+    "Icon": "",
+    "Description": "Optimised conductors represent a breakthrough in the field of electrical and thermal conduction. These advanced materials go beyond traditional metallic conductors, incorporating exotic states of matter and quantum effects to achieve near-lossless energy transfer. These conductors revolutionize energy distribution, enabling ultra-efficient power grids, lossless data transmission, and new possibilities in electronics and energy-intensive industries. ",
+    "Requirements": [
+        "tech:advanced_processors"
+    ],
+    "ResearchNeeded": 500.0,
+    "ResearchDone": 0.0
+}

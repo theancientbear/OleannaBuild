@@ -1,0 +1,12 @@
+{
+    "ID": "FuModule",
+    "Name": "Expansion with the fuel facility",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "FuelPlantTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

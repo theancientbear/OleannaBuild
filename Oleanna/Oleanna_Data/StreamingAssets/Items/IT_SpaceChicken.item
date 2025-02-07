@@ -1,0 +1,14 @@
+{
+    "ID": "SpaceChicken",
+    "Name": "Space Chicken",
+    "Description": "It seems to express immense joy looking into the vastness of space.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

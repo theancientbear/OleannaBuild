@@ -1,0 +1,9 @@
+{
+    "ID": "science_reorganisation",
+    "Name": "Science reorganisation",
+    "Icon": "",
+    "Description": "Science reorganisation represents a paradigm shift in the approach to scientific research and development. This foundational technology revolutionizes how knowledge is acquired, shared, and applied across various scientific disciplines. It involves restructuring research methodologies, enhancing interdisciplinary collaboration, and optimizing resource allocation to accelerate scientific progress.\n\nThis overhaul in scientific practices paves the way for rapid advancements in specialized fields, enabling breakthroughs that were previously unattainable.\n\nThis is a necessity for the scientific community of Oleanna after being cut from the rest of the human civilization.",
+    "Requirements": [],
+    "ResearchNeeded": 100.0,
+    "ResearchDone": 0.0
+}

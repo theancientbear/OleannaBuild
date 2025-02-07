@@ -1,0 +1,15 @@
+{
+    "Emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 1.0,
+        "Curiousity": 0.0,
+        "Admiration": 1.0
+    },
+    "Condition": "",
+    "Description": "Sure thing. This has gone too far.",
+    "NextMode": "",
+    "NextGoal": "",
+    "Sequence": "BattlePeace",
+    "SendToNext": "",
+    "ChangeCharacter": ""
+}

@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Ade Kowalski",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214210
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard58",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 4.23419189453125,
+    "Extraversion": 47.678192138671878,
+    "Openness": 29.77704620361328,
+    "Agreeableness": 4.414338111877441,
+    "Consientiousness": 73.36474609375,
+    "ControllerData": ""
+}

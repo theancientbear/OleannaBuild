@@ -1,0 +1,21 @@
+{
+    "ID": "HKturret",
+    "templates": [
+        {
+            "type": 17,
+            "Arguments": "0#0#1000"
+        },
+        {
+            "type": 16,
+            "Arguments": "point_found#citizen"
+        },
+        {
+            "type": 19,
+            "Arguments": "Not your territory!"
+        },
+        {
+            "type": 1,
+            "Arguments": "person_found"
+        }
+    ]
+}

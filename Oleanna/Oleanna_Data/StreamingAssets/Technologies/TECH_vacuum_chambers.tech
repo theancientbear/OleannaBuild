@@ -1,0 +1,11 @@
+{
+    "ID": "vacuum_chambers",
+    "Name": "Vacuum chambers",
+    "Icon": "",
+    "Description": "Vacuum chambers in this advanced context go far beyond conventional designs, creating environments of near-perfect vacuum with unprecedented control over particle content and energy states. These chambers push the boundaries of what's possible in controlled environments, enabling experiments and manufacturing processes at the cutting edge of physics and materials science. These chambers enable groundbreaking research in particle physics, facilitate the creation of new materials impossible to synthesize under normal conditions, and provide testing environments for advanced space technologies. ",
+    "Requirements": [
+        "tech:vacuum_explosives"
+    ],
+    "ResearchNeeded": 900.0,
+    "ResearchDone": 0.0
+}

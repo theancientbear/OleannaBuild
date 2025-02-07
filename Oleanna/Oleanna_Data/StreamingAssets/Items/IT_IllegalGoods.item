@@ -1,0 +1,14 @@
+{
+    "ID": "IllegalGoods",
+    "Name": "Illegal Goods",
+    "Description": "Drugs, organs and illegal weapons. They are supposed to be illegal, but in distant colonies no one cares.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "IllegalIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

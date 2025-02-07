@@ -1,0 +1,12 @@
+{
+    "ID": "advanced_processors",
+    "Name": "Advanced processors",
+    "Icon": "",
+    "Description": "Advanced processors represent the pinnacle of computational hardware, pushing the boundaries of processing speed, efficiency, and complexity. These cutting-edge components go beyond traditional silicon-based architectures, incorporating novel materials and quantum computing principles to achieve unprecedented performance. These processors enable complex real-time calculations, advanced AI operations, and data processing at scales previously unattainable, forming the backbone of next-generation computing systems. ",
+    "Requirements": [
+        "tech:robotic_manufacturing",
+        "tech:energetic_manipulation"
+    ],
+    "ResearchNeeded": 300.0,
+    "ResearchDone": 0.0
+}

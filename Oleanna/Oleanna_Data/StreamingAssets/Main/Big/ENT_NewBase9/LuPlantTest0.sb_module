@@ -1,0 +1,1 @@
+{"ID":"LuPlantTest","Name":"LuPlantTest","pos":{"x":1679.1429443359375,"y":129.70729064941407},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunLuxury.png","Type":15,"race":0,"Purpose":1,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,2,7,9,12],"Functionality":"None","Params":""}

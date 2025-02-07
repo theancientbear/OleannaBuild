@@ -1,0 +1,13 @@
+{
+    "ID": "HKSpawn",
+    "templates": [
+        {
+            "type": 18,
+            "Arguments": "MSH_HKBot1"
+        },
+        {
+            "type": 8,
+            "Arguments": "10"
+        }
+    ]
+}

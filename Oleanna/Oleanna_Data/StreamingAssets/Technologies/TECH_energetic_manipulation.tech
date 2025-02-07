@@ -1,0 +1,11 @@
+{
+    "ID": "energetic_manipulation",
+    "Name": "Energetic manipulation",
+    "Icon": "",
+    "Description": "Energetic manipulation is a groundbreaking field that focuses on the precise control, conversion, and utilization of energy at various scales. This technology enables unprecedented mastery over different forms of energy, from subatomic particles to macroscale phenomena, opening up new possibilities in power generation, materials science, and weapons technology. The applications of this technology range from revolutionizing clean energy production to enabling advanced force field generation and highly precise energy weapons. ",
+    "Requirements": [
+        "tech:science_reorganisation"
+    ],
+    "ResearchNeeded": 200.0,
+    "ResearchDone": 0.0
+}

@@ -1,0 +1,12 @@
+{
+    "ID": "ResourceShop",
+    "Name": "Expansion with a Market",
+    "MoneyNeeded": 8000.0,
+    "TimeNeeded": 30.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "ResourceShopTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

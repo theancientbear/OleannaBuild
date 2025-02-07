@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Asa Patel",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader20",
+    "Money": 2953,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 16.336734771728517,
+    "Extraversion": 75.26171112060547,
+    "Openness": 22.87793731689453,
+    "Agreeableness": 86.56216430664063,
+    "Consientiousness": -16.179271697998048,
+    "ControllerData": ""
+}

@@ -1,0 +1,14 @@
+{
+    "ID": "ShatteredPieces",
+    "Name": "Shattered Pieces",
+    "Description": "This was supposed to be an unbreakable crystall. ",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

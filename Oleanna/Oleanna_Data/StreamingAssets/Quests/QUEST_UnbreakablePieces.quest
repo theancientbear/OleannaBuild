@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 100.0,
+    "ID": "UnbreakablePieces",
+    "Name": "Unbreakable... maybe?",
+    "Description": "We need you to deliver the famous “Unbreakable” crystal back to Doctor Manheim, who originally created it. The payment of #Reward# hopefully will be enough. The problem is that we shattered it into a million pieces. We have tried to gather it back, but with no luck… Hopefully, he can restore it back, meanwhile, we will have to think what to do with our new housing module built out of it.Good luck, and send our deepest regrets to Doctor Manheim, contract with whom we break starting now.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "ShatteredPieces",
+    "Condition": "",
+    "TechProgress": "0",
+    "Tags": [
+        "basecommander",
+        "base"
+    ],
+    "OnFinish": "Well well, how did they manage to break it? And what, they are breaking the contract as well? How dare they?And even more so, this is not our crystal at all! This is outrageous!I guess you are just a delivery guy. Get your cash and get out of here!",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

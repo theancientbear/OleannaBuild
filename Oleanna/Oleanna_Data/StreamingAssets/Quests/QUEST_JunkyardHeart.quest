@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "JunkyardHeart",
+    "Name": "Junkyard Heart",
+    "Description": "A Junkyard Heart needs to be delivered to a scrapyard on #TargetBase#. No, it’s not an actual heart—though it looks like one. It’s a heavily modified, 20th-century human-built engine that some eccentric collector claims to be \"the soul of the past.\" The thing still works, though, so you can’t just throw it away like any other junk. Be careful; it’s a bit of a hassle to transport, but it’s worth a decent amount. Just get it to the scrapyard and be on your way. #Reward# will be yours.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QJunkyardHeart",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Well, the collector wasn’t wrong—it really did have some life left in it. The scrapyard’s happy, though they didn’t seem as impressed with the “soul” as the client was. Payment’s been transferred. Maybe don’t start collecting scrap for sentimental reasons anytime soon.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

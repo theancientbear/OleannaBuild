@@ -1,0 +1,17 @@
+{
+    "Type": 3,
+    "TimeToComplete": 100.0,
+    "ID": "DistressBeacon",
+    "Name": "DistressBeacon",
+    "Description": "asdasd diss",
+    "Objective": "Test",
+    "Reward": 400.0,
+    "ObjectInQuestion": "ShatteredPieces",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [],
+    "OnFinish": "Congratulations, space courier. You have successfully delivered the space chicken teo the 'Gamma Station' space bas. Who knew that a space chicken could bring so much joy? ",
+    "SequenceOnStart": "Quest_CreateBeacon",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

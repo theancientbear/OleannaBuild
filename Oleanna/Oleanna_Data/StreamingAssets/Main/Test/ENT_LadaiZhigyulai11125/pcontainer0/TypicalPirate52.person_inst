@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Zhenya Radoff",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate52",
+    "Money": 1145,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 79.055419921875,
+    "Extraversion": 53.29752731323242,
+    "Openness": -34.481773376464847,
+    "Agreeableness": -7.110861778259277,
+    "Consientiousness": -25.121414184570314,
+    "ControllerData": ""
+}

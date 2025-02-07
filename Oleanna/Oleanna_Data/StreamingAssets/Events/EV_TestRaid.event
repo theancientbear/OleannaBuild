@@ -1,0 +1,39 @@
+{
+    "ID": "TestRaid",
+    "Type": 2,
+    "Name": "Expansion Raid",
+    "Description": "In order to fulfill the growing need in resources and to secure the habitats, the Comittee has decided to organise a raid, in order to free one of the sectors of space from the malicious entities.",
+    "Distance": 1000.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "hk_base",
+    "OriginTags": "",
+    "SpecialTags": "citizen",
+    "SpecialTags2": "",
+    "LTGoal": "TestRaid",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 1.0,
+    "Unique": false,
+    "Priority": 10,
+    "source": {
+        "Hapinness": 2.0,
+        "Expectation": 2.0,
+        "Curiousity": 1.0,
+        "Admiration": 1.0
+    },
+    "response1": {
+        "Hapinness": 2.0,
+        "Expectation": 2.0,
+        "Curiousity": 1.0,
+        "Admiration": 2.0
+    },
+    "response2": {
+        "Hapinness": -2.0,
+        "Expectation": -1.0,
+        "Curiousity": -2.0,
+        "Admiration": 1.0
+    }
+}

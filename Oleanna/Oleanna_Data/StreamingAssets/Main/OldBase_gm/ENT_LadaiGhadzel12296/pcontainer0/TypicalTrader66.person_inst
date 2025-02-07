@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Indra Kowalski",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214252
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader66",
+    "Money": 2281,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 19.1119384765625,
+    "Extraversion": 75.38960266113281,
+    "Openness": 69.19029235839844,
+    "Agreeableness": 86.33606719970703,
+    "Consientiousness": 18.651180267333986,
+    "ControllerData": ""
+}

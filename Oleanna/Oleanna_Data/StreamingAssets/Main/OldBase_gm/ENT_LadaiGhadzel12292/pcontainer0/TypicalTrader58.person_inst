@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Arman Kowalski",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214258
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader58",
+    "Money": 2693,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 17.24073600769043,
+    "Extraversion": 40.65834426879883,
+    "Openness": 28.263315200805665,
+    "Agreeableness": 74.49324798583985,
+    "Consientiousness": 7.771481990814209,
+    "ControllerData": ""
+}

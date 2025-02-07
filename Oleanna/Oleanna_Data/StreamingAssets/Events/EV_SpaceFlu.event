@@ -1,0 +1,39 @@
+{
+    "ID": "SpaceFlu",
+    "Type": 0,
+    "Name": "Space Flu",
+    "Description": "A seemingly routine trade exchange became a nightmare when an alien flu strain slipped through inadequate biohazard controls. The pathogen spread rapidly through the station's tight living quarters, exposing the fragility of their isolated ecosystem. What began as a minor health concern quickly escalated into a full-blown epidemic, forcing the population to confront their vulnerability in the vast, unforgiving environment of space.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Medicaments:cons:3|Food:cons:2|Metals:prod:-2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

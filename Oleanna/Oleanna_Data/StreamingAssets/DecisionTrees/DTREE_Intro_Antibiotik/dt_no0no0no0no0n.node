@@ -1,0 +1,11 @@
+{
+    "ID": "",
+    "emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "AIonly": false,
+    "Description": "So, there is a weapon on this ship somewhere. Install it and blow up the vessel on which our friend arrived and got you. It should be just in front of you."
+}

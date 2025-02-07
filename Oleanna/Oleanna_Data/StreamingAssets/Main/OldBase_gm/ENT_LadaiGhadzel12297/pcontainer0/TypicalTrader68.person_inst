@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Zhenya Kahale",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214250
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader68",
+    "Money": 2987,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 17.248659133911134,
+    "Extraversion": 52.46075439453125,
+    "Openness": 48.331703186035159,
+    "Agreeableness": 50.129547119140628,
+    "Consientiousness": -4.520551681518555,
+    "ControllerData": ""
+}

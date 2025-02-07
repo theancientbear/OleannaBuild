@@ -1,0 +1,20 @@
+{
+    "Type": 1,
+    "TimeToComplete": 0.0,
+    "ID": "BlackMarketBlunder",
+    "Name": "Black Market Blunder",
+    "Description": "A smuggler has been caught transporting illegal goods disguised as medical supplies. Rather than face capture, they’ve decided to try their luck. The authorities want this ship eliminated. The #Reward# will cover your efforts.\n",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 700.0,
+    "ObjectInQuestion": "pirate",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "The smuggle is no longer a problem. The authorities have wired your payment and noted your efforts. Let’s hope no one else decides to get creative with their cargo manifests.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

@@ -1,0 +1,14 @@
+{
+    "ID": "QPowerConvertor",
+    "Name": "Power Convertor",
+    "Description": "Completely new, with the smell of fresh coating.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

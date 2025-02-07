@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Asa Nasir",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader30",
+    "Money": 2348,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 10.560175895690918,
+    "Extraversion": 88.43120574951172,
+    "Openness": 29.501338958740236,
+    "Agreeableness": 89.74776458740235,
+    "Consientiousness": -5.751321792602539,
+    "ControllerData": ""
+}

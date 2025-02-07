@@ -1,0 +1,11 @@
+{
+    "ID": "ScienceTestModule",
+    "Name": "",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 1,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 0.0,
+    "DialogBackground": "",
+    "Params": ""
+}

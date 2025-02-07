@@ -1,0 +1,14 @@
+{
+    "ID": "QBioUnit",
+    "Name": "Bio-Containment Unit",
+    "Description": "It can't be as bad as they have said. Can it?",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

@@ -1,0 +1,1 @@
+{"ID":"FoPlantTest","Name":"Plant Test","pos":{"x":28.803855895996095,"y":-14.844867706298829},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/PopulationModule.png","Type":13,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[2,4,6],"Functionality":"None","Params":""}

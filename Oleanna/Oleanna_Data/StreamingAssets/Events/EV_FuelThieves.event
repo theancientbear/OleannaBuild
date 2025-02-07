@@ -1,0 +1,39 @@
+{
+    "ID": "FuelThieves",
+    "Type": 0,
+    "Name": "Fuel Thieves",
+    "Description": "Born from the station's over-reliance on automated fuel depots, this underground organization discovered a lucrative niche. By systematically siphoning fuel and trading it for exotic luxury goods, they created an alternative economic system that challenged the official resource management protocols. Their operations were both a survival strategy and a form of rebellion against the station's rigid resource allocation.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#IllegalGoods:prod:1|LuxuryGoods:cons:2|Fuel:prod:-2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

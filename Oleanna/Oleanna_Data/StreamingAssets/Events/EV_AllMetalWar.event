@@ -1,0 +1,39 @@
+{
+    "ID": "AllMetalWar",
+    "Type": 0,
+    "Name": "All-Metal War",
+    "Description": "Years of exploitation and harsh working conditions in the station's mining sector culminated in a violent uprising. Armed with improvised weapons and burning with revolutionary fervor, the miners staged a brutal coup in the metalworks. What began as a labor dispute transformed into a full-scale conflict, with miners fighting not just for better conditions, but for complete control of the station's most valuable resource production center.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Metals:cons:2|Medcaments:cons:2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

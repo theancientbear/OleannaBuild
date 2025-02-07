@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Vali Patel",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate60",
+    "Money": 1543,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 57.833030700683597,
+    "Extraversion": 41.99221420288086,
+    "Openness": -41.38298034667969,
+    "Agreeableness": -5.983776092529297,
+    "Consientiousness": -47.721954345703128,
+    "ControllerData": ""
+}

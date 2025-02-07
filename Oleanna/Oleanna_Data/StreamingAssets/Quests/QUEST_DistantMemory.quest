@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "DistantMemory",
+    "Name": "Distant Memory",
+    "Description": "There’s a Distant Memory to be delivered to a therapist on #TargetBase#. It's an odd package, but apparently, it contains a record of a client’s past life. Yep, you heard me right—a past life. The client wants to relive it, and they’ve asked for a recording of their entire existence, from birth to death. The therapist swears it’s harmless, but I wouldn’t want to be the one who hands it over if something goes wrong. Get it there, and your #Reward# is waiting. Don't ask questions, and don't start questioning your own life either.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QDistantMemory",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Well, that was a strange one. You got it to the therapist, and no one ended up having an identity crisis? They said the client’s memories were… \"distracting\" at best, but they seemed happy. Anyway, here’s your payment. I hope you don’t start feeling nostalgic about someone else’s life.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

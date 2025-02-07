@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "MysteriousGift",
+    "Name": "Mysterious Gift",
+    "Description": "A mysterious gift has arrived for you to deliver to a very disgruntled customer on #TargetBase#. The thing is, they don’t want it. It’s a large package, wrapped in suspiciously soft material, and the label says \"Thank you for your patience!\"—which, considering their complaints, is a bit of a slap in the face. No one’s saying what’s inside, but I can promise you, it’s the last thing they need right now. Just drop it off, and try not to get into an argument with the client. The #Reward# will be given once it’s in their hands.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QMysteriousGift",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Well, the gift’s been delivered, and the customer was apparently thrilled—though they did mutter something about wanting the next one in a less… personal format. Payment’s wired, and I suggest you forget about the contents. Trust me, you’re better off not knowing.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

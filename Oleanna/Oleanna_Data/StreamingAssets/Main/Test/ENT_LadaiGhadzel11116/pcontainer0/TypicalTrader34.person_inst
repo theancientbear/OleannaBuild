@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Kito Bakhtiar",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader34",
+    "Money": 2347,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 19.958219528198243,
+    "Extraversion": 64.85323333740235,
+    "Openness": 31.099321365356447,
+    "Agreeableness": 78.96827697753906,
+    "Consientiousness": 3.8626747131347658,
+    "ControllerData": ""
+}

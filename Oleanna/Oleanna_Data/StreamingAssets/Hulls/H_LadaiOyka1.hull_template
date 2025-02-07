@@ -1,0 +1,28 @@
+{
+    "ID": "LadaiOyka1",
+    "Name": "Ladai Oyka",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 250,
+    "SpaceSigma": 70,
+    "BasePrice": 2400,
+    "TechLevel": 1,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 400,
+    "Image": "oyka.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 420.0,
+    "Tags": "ForSell|Freelancer",
+    "Slots": [
+        1,
+        2,
+        0,
+        1
+    ],
+    "AdditionalSlots": [],
+    "Conditions": [
+        "tech:robotic_manufacturing"
+    ]
+}

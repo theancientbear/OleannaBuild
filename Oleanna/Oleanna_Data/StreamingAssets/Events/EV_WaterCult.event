@@ -1,0 +1,39 @@
+{
+    "ID": "WaterCult",
+    "Type": 0,
+    "Name": "Water Cult Insurgency",
+    "Description": "Pushed to the brink by grueling work conditions and a strict hydration rationing system, a group of maintenance workers underwent a radical transformation. Driven by a newfound spiritual reverence for water, they began secretly stockpiling water tanks in hidden compartments throughout the space station. Their quasi-religious movement saw water not just as a resource, but as a sacred substance worthy of worship and careful preservation.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Water:cons:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "base",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

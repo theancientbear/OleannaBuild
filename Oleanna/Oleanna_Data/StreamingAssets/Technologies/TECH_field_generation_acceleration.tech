@@ -1,0 +1,11 @@
+{
+    "ID": "field_generation_acceleration",
+    "Name": "Field generation acceleration",
+    "Icon": "",
+    "Description": "\n\nField generation acceleration technology dramatically enhances the speed, strength, and precision with which various types of fields - electromagnetic, gravitational, or more exotic - can be created and manipulated. This breakthrough allows for the rapid deployment of powerful fields for a wide range of applications.\n\nThis technology enables the creation of instant forcefields, controllable gravity wells, and other field-based phenomena, revolutionizing everything from personal protection to space travel.\n",
+    "Requirements": [
+        "tech:accumulator_manufacturing"
+    ],
+    "ResearchNeeded": 500.0,
+    "ResearchDone": 0.0
+}

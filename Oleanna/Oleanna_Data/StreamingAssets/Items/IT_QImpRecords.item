@@ -1,0 +1,14 @@
+{
+    "ID": "QImpRecords",
+    "Name": "\"Improved\" Records",
+    "Description": "A bunch of paperwork, which makes your head hurt by just looking at it.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

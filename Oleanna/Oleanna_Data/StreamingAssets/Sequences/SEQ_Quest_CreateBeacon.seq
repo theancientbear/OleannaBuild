@@ -1,0 +1,4 @@
+{
+    "ID": "Quest_CreateBeacon",
+    "Scr": "ent = CreateEntity(\"IOE_DistressBeacon\",0,0,0)\n\nPrint(\"Creating beacon\")\n\nSetQuestTarget(\"DistressBeacon\",ent)"
+}

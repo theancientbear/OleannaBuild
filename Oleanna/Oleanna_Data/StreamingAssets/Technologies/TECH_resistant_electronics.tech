@@ -1,0 +1,11 @@
+{
+    "ID": "resistant_electronics",
+    "Name": "Resistant electronics",
+    "Icon": "",
+    "Description": "\n\nResistant electronics represent a new generation of hardware designed to operate reliably under extreme conditions that would destroy conventional electronics. These advanced components combine innovative materials, protective technologies, and adaptive systems to withstand intense electromagnetic interference, radiation, temperature extremes, and physical stress.\n\nThis technology enables the deployment of electronic systems in previously impossible environments, from the heart of nuclear reactors to the surface of hostile planets, revolutionizing exploration, research, and industrial capabilities in extreme conditions.\n",
+    "Requirements": [
+        "tech:protective_energy_fields"
+    ],
+    "ResearchNeeded": 700.0,
+    "ResearchDone": 0.0
+}

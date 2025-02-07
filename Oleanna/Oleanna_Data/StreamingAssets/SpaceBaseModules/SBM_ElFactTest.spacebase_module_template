@@ -1,0 +1,11 @@
+{
+    "ID": "ElFactTest",
+    "Name": "El Factory Test",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 10,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

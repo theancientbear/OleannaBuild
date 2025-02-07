@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Tamir Bakhtiar",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214280
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard10",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 5.257676124572754,
+    "Extraversion": 47.55256652832031,
+    "Openness": 8.590299606323243,
+    "Agreeableness": 21.375307083129884,
+    "Consientiousness": 62.93775939941406,
+    "ControllerData": ""
+}

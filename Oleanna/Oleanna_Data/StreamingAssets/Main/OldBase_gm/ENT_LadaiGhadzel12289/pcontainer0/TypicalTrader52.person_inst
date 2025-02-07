@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Zhenya Singh",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214264
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader52",
+    "Money": 2129,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 19.72307014465332,
+    "Extraversion": 53.558082580566409,
+    "Openness": 23.411752700805665,
+    "Agreeableness": 85.13046264648438,
+    "Consientiousness": -14.906035423278809,
+    "ControllerData": ""
+}

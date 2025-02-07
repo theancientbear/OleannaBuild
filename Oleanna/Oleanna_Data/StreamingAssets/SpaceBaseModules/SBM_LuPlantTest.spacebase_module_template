@@ -1,0 +1,11 @@
+{
+    "ID": "LuPlantTest",
+    "Name": "LuPlantTest",
+    "Graphics": "Modules/PopulationModule.png",
+    "Type": 15,
+    "race": 0,
+    "Purpose": 1,
+    "Effectivity": 1.0,
+    "DialogBackground": "",
+    "Params": ""
+}

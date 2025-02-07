@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Vali Novak",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214296
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard18",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 5.626677989959717,
+    "Extraversion": 53.77701950073242,
+    "Openness": 24.53428077697754,
+    "Agreeableness": 36.196346282958987,
+    "Consientiousness": 89.47087097167969,
+    "ControllerData": ""
+}

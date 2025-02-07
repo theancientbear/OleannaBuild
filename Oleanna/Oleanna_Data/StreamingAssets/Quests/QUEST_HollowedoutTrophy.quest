@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "HollowedoutTrophy",
+    "Name": "Hollowed-out Trophy",
+    "Description": "There’s a Hollowed-out Trophy to be delivered to the #TargetBase#. The client insists it’s extremely important—and judging by the way it looks, I’m assuming they meant “important” in a very peculiar way. It’s a shiny gold cup, but when you open it, the inside’s empty. Nothing. Just the memory of past glory—or a depressing lack thereof. Apparently, this “trophy” was for a sporting event that no one remembers anymore, but the client insists it’s a family heirloom. Get it there without any \"accidental mix-ups,\" and the #Reward# is yours.",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QHollowedoutTrophy",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "The trophy’s safely in the Hall of Fame. The client was oddly pleased, though I can’t tell if they were celebrating the trophy’s historical significance or just the fact they managed to hang onto it. Your payment’s been sent—maybe spend it on something with actual value.",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

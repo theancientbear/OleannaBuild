@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Ravi Chow",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214284
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard26",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 7.776763439178467,
+    "Extraversion": 59.62550735473633,
+    "Openness": -2.7179765701293947,
+    "Agreeableness": 49.119449615478519,
+    "Consientiousness": 87.70730590820313,
+    "ControllerData": ""
+}

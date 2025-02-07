@@ -1,0 +1,14 @@
+{
+    "ID": "LuxuryGoods",
+    "Name": "Luxury goods",
+    "Description": "Golden rings, silver plates and precious gems. Why are humans so attached to those things?",
+    "ItemType": 2,
+    "BasePrice": 30.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "Luxury.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

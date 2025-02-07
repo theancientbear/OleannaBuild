@@ -1,0 +1,39 @@
+{
+    "ID": "FuelFrenzy",
+    "Type": 0,
+    "Name": "Fuel Frenzy",
+    "Description": "What started as a minor technical experiment by an overzealous engineer turned into a station-wide celebration. The accidental creation of \"fuel wine\" - a potent and inexplicable byproduct of fuel overproduction - sparked a spontaneous festival that temporarily united the crew. The event became a surreal moment of collective joy, demonstrating how innovation and accident could momentarily break through the station's usual tension and monotony.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Fuel:cons:3|IllegalGoods:cons:2|ConstructionGoods:prod:1_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Name": "SteinTasche",
+    "Description": "default",
+    "OnLoad": "",
+    "OnUnload": "",
+    "OnInitialize": "EnterOleanna",
+    "Initialized": false
+}

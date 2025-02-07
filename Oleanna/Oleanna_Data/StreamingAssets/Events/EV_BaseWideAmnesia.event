@@ -1,0 +1,39 @@
+{
+    "ID": "BaseWideAmnesia",
+    "Type": 0,
+    "Name": "Base-Wide Amnesia",
+    "Description": "An experimental technology test went catastrophically wrong when an electromagnetic burst wiped out short-term memories across the entire station. Crew members found themselves disoriented, with critical moments of recent history suddenly erased. The incident exposed the dangerous potential of experimental technologies and the fragility of human memory in their isolated environment.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Electronics:cons:2|Fuel:prod:2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

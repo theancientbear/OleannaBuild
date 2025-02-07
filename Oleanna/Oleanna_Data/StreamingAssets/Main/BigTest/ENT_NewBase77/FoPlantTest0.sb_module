@@ -1,0 +1,1 @@
+{"ID":"FoPlantTest","Name":"Plant Test","pos":{"x":-419.52764892578127,"y":-802.9219970703125},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Farm.png","Type":13,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,6,8],"Functionality":"None","Params":""}

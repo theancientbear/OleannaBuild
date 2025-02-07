@@ -1,0 +1,20 @@
+{
+    "itemType": 1,
+    "Name": "Fusion Engine",
+    "Description": "",
+    "ID": "FusionEngine",
+    "BasePrice": 100.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "EngineIcon.png",
+    "Quantity": 1,
+    "Weight": 0.0,
+    "Type": 0,
+    "MaxDurability": 0.0,
+    "Durability": 0.0,
+    "TechLevel": 0,
+    "ForwardThrust": 69.5689697265625,
+    "BackwardThrust": 117.42121887207031,
+    "SidewaysThrust": 64.90548706054688,
+    "DashCooldown": 3.0
+}

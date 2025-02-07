@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Noor Karimi",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214298
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard14",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.4834132194519045,
+    "Extraversion": 41.32524871826172,
+    "Openness": 20.14200210571289,
+    "Agreeableness": 36.85483169555664,
+    "Consientiousness": 70.51980590820313,
+    "ControllerData": ""
+}

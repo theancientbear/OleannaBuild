@@ -1,0 +1,444 @@
+{
+    "ID": "LostShip",
+    "EntryPoint": "Start",
+    "ExitPoint": "",
+    "Locations": [
+        {
+            "ID": "Start",
+            "Description": "You approach the derelict Committee ship, which rests in eerie silence against the backdrop of a slowly rotating asteroid. Its dark, vacant windows hint at long-forgotten stories, devoid of any sign of life. Yet, despite the ship's apparent abandonment, the hatch seems functional, a faint beacon inviting or perhaps daring you to enter.",
+            "Illustration": "Adventure/Hatch.png",
+            "Transitions": [
+                {
+                    "Destination": "Start2:0",
+                    "Condition": "",
+                    "Description": "Enter the ship",
+                    "Action": "dooropened=0\nhelmet=0\nmonster_state=0\npower=0\npassword=0\npr_unlocked=0\nengine_pass=0\neng_unlocked=0\nhatch_opened=0\n"
+                },
+                {
+                    "Destination": "Exit:0",
+                    "Condition": "",
+                    "Description": "Return later",
+                    "Action": "dooropened=0\nhelmet=0\nmonster_state=0\npower=0\npassword=0\npr_unlocked=0\nengine_pass=0\neng_unlocked=0\nhatch_opened=0\n"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "Corridor",
+            "Description": "The corridor stretches before you in dim, flickering light, its walls lined with peeling paint and rust. Several doors lead off to different parts of the ship: the kitchen, the main bedroom, the personnel quarters, and the technical sections. The engine room, secured behind a locked door, demands a 4-digit code for access. You feel a strange sense of isolation, as though the ship itself is watching you.",
+            "Illustration": "Adventure/Corridor.png",
+            "Transitions": [
+                {
+                    "Destination": "Kitchen:0",
+                    "Condition": "helmet=1&!monster_state=3&hatch_opened=0",
+                    "Description": "Kitchen",
+                    "Action": ""
+                },
+                {
+                    "Destination": "DeathHelmet:0",
+                    "Condition": "helmet=0",
+                    "Description": "Go to the kitchen",
+                    "Action": ""
+                },
+                {
+                    "Destination": "PersonelRoom:1",
+                    "Condition": "pr_unlocked=1&hatch_opened=0",
+                    "Description": "Go to the personel bedroom",
+                    "Action": "\n"
+                },
+                {
+                    "Destination": "EngineDoor:0",
+                    "Condition": "eng_unlocked=0&monster_state=0&hatch_opened=0",
+                    "Description": "Go to the engine door",
+                    "Action": ""
+                },
+                {
+                    "Destination": "MonsterDeath:1",
+                    "Condition": "helmet=1&monster_state=3&hatch_opened=0",
+                    "Description": "Go to the kitchen",
+                    "Action": ""
+                },
+                {
+                    "Destination": "MainBedroom:0",
+                    "Condition": "dooropened=1&hatch_opened=0",
+                    "Description": "Go to the main bedroom",
+                    "Action": ""
+                },
+                {
+                    "Destination": "End:0",
+                    "Condition": "hatch_opened=1",
+                    "Description": "Get out!",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "The kitchen door is wide open, while the rest are closed.\n\n<color=yellow>It seems like the hatch locked behind you. You are now stuck on this abandoned ship </color> \n",
+                "The kitchen door is wide open, while the rest are closed.\n\n<color=yellow>It seems like the hatch locked behind you. You are now stuck on this abandoned ship </color> ",
+                " The hatch is still closed.",
+                "The hatch is still closed.\n\nThe entity is already at the door.",
+                "The hatch is open!"
+            ]
+        },
+        {
+            "ID": "Start2",
+            "Description": "As you step inside the airlock, your suit's sensors detect breathable oxygen—proof that the ship’s life support is somehow still operational, even after all these years of silence. The prospect of fresh air tempts you to remove your helmet, yet the ship’s ominous atmosphere makes you hesitate.",
+            "Illustration": "Adventure/SpaceSuit.png",
+            "Transitions": [
+                {
+                    "Destination": "Corridor:0",
+                    "Condition": "",
+                    "Description": "Take off your helmet",
+                    "Action": "helmet=0"
+                },
+                {
+                    "Destination": "Corridor:1",
+                    "Condition": "",
+                    "Description": "Leave helmet on",
+                    "Action": "helmet=1"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "DeathHelmet",
+            "Description": "As you walk toward the kitchen, a bizarre sensation takes hold. Your skin begins to ripple, as though something is moving beneath it. Instinctively, you touch your face, only to feel the flesh sticking to your fingertips through your suit gloves. The stench of burnt flesh fills the air, and with dawning horror, you realize it’s coming from you. Your vision blurs as your body melts, filling the spacesuit with a sickening, boiling liquid. Slowly, consciousness fades until only silence remains.",
+            "Illustration": "Adventure/Black.png",
+            "Transitions": [
+                {
+                    "Destination": "Start:0",
+                    "Condition": "",
+                    "Description": "Restart the mission",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "<color=red>You died. </color>"
+            ]
+        },
+        {
+            "ID": "Kitchen",
+            "Description": "The kitchen is a bleak, sterile room with a makeshift cooking area in one corner and an opaque shower stall in the other. A small, worn sofa and table sit in the center, bearing silent witness to countless meals once shared here. Two empty outfits are draped across the sofa—one a worn, standard-issue worker’s uniform, the other an elegant silk suit. Both sets of clothing lie eerily undisturbed, as though their owners vanished mid-conversation.",
+            "Illustration": "Adventure/Kitchen.png",
+            "Transitions": [
+                {
+                    "Destination": "Bridge:0",
+                    "Condition": "power=0",
+                    "Description": "Go to the bridge",
+                    "Action": "if monster_state==2 then\n\tmonster_state=3\nend\n\nif monster_state==1 then\n\tmonster_state=2\nend\n"
+                },
+                {
+                    "Destination": "PersonelRoom:0",
+                    "Condition": "pr_unlocked=0",
+                    "Description": "Go the personel bedroom",
+                    "Action": "pr_unlocked=1"
+                },
+                {
+                    "Destination": "Corridor:2",
+                    "Condition": "!monster_state=2",
+                    "Description": "Return to corridor",
+                    "Action": ""
+                },
+                {
+                    "Destination": "PersonelRoom:1",
+                    "Condition": "pr_unlocked=1",
+                    "Description": "Go the personel bedroom",
+                    "Action": ""
+                },
+                {
+                    "Destination": "MonsterDeathCorr:0",
+                    "Condition": "monster_state=2",
+                    "Description": "Return to corridor",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Bridge:1",
+                    "Condition": "power=1",
+                    "Description": "Go to the bridge",
+                    "Action": "if monster_state==2 then\n\tmonster_state=3\nend\n\nif monster_state==1 then\n\tmonster_state=2\nend\n\nmonster_state=3\n"
+                },
+                {
+                    "Destination": "CheckClothes:0",
+                    "Condition": "dooropened=0",
+                    "Description": "Search the clothes",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "",
+                "The monster is already in the kitchen, blocking the door leading to the corridor. "
+            ]
+        },
+        {
+            "ID": "Bridge",
+            "Description": "The bridge is one of the few places still humming with residual power. Through the reinforced glass, the boundless void of space stretches endlessly, unfathomable and cold. You’ve seen this view a hundred times from your own ship, but here, under the ship's ghostly silence, it feels desolate. A faint glow from the console indicates minimal power, but a message on-screen warns of safe mode restrictions until full power is restored.",
+            "Illustration": "Adventure/Bridge.png",
+            "Transitions": [
+                {
+                    "Destination": "Bridge:2",
+                    "Condition": "password=1&power=1",
+                    "Description": "Unlock the hatch",
+                    "Action": "hatch_opened=1\n\n"
+                },
+                {
+                    "Destination": "Kitchen:0",
+                    "Condition": "!monster_state=3",
+                    "Description": "Go to kitchen",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Kitchen:1",
+                    "Condition": "monster_state=3",
+                    "Description": "Go to kitchen",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "The console indicates that the reactor is running in the safe mode, and refuses to colaborate until the power is restored.\n\nIt kindly tells you that you can find the corresponding lever in the engine room.",
+                "The console has all the power needed, but requires an administrator password now.",
+                "The hatch is open now."
+            ]
+        },
+        {
+            "ID": "PersonelRoom",
+            "Description": "The personnel quarters feel cramped, with a simple two-person bunk bed bolted to one wall and a scratched metal wardrobe standing nearby. A hastily scribbled note is pinned to the wall, its edges frayed and yellowed with time, hinting at something important. The room’s lingering odor, a mix of stale sweat and industrial cleaner, is a stark reminder of the close quarters once shared by the crew.",
+            "Illustration": "Adventure/PersonelRoom.png",
+            "Transitions": [
+                {
+                    "Destination": "Note:0",
+                    "Condition": "",
+                    "Description": "Look at the note",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Kitchen:0",
+                    "Condition": "!monster_state=3",
+                    "Description": "Go to kitchen",
+                    "Action": "if monster_state==2 then\n\tmonster_state=3\nend\n\nif monster_state==1 then\n\tmonster_state=2\nend\n"
+                },
+                {
+                    "Destination": "Corridor:2",
+                    "Condition": "hatch_opened=0&!monster_state=2",
+                    "Description": "Go to corridor",
+                    "Action": "if monster_state==2 then\n\tmonster_state=3\nend\n\nif monster_state==1 then\n\tmonster_state=2\nend\n"
+                },
+                {
+                    "Destination": "Kitchen:1",
+                    "Condition": "monster_state=3",
+                    "Description": "Go to the kitchen",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Corridor:4",
+                    "Condition": "hatch_opened=1&!monster_state=2",
+                    "Description": "Go to the corridor",
+                    "Action": ""
+                },
+                {
+                    "Destination": "MonsterDeathCorr:0",
+                    "Condition": "monster_state=2",
+                    "Description": "Go to the corridor",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "Just in case, you immediately unlock the door to the corridor. ",
+                " "
+            ]
+        },
+        {
+            "ID": "Engine",
+            "Description": "The engine room is dimly lit, the light flickering weakly as it struggles to illuminate the space. In the center, the cylindrical reactor hums softly, its tiny lights flickering in rhythmic patterns. As you pull the lever, the reactor’s power surges, a quiet pulse of life returning to the ship.",
+            "Illustration": "Adventure/Engine.png",
+            "Transitions": [
+                {
+                    "Destination": "Corridor:3",
+                    "Condition": "",
+                    "Description": "Run!",
+                    "Action": "monster_state=1\npower=1\n"
+                }
+            ],
+            "States": [
+                "As the automatic lights started turning on in the engine room, you noticed that the lower part of he generator is covered with a pile of something which look like human flesh, except that it is also pulsating as if it was boiling.\n\nA part of it separates and starts moving towards you."
+            ]
+        },
+        {
+            "ID": "MonsterDeath",
+            "Description": "You attempt to escape the grotesque, shifting mass, but its fleshy tendrils lash out faster than you can react. They puncture your suit in an instant, and the acrid, scorching scent fills your nostrils. As the suit melts around you, becoming a prison of liquefied flesh, you realize with dawning horror that your own body is disintegrating, filling the suit from the inside. Darkness closes in as your awareness fades.",
+            "Illustration": "Adventure/Black.png",
+            "Transitions": [
+                {
+                    "Destination": "Start:0",
+                    "Condition": "",
+                    "Description": "Restart",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "<color=red>You died. </color>"
+            ]
+        },
+        {
+            "ID": "Note",
+            "Description": " \"I am tired of you always forgetting the access code to the engine room. Just remember: it is 1325. Why do we even have a lock there? Everyone is supposed to know it anyway.\"",
+            "Illustration": "Adventure/Note.png",
+            "Transitions": [
+                {
+                    "Destination": "PersonelRoom:1",
+                    "Condition": "",
+                    "Description": "Back",
+                    "Action": "engine_pass=1"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "EngineDoor",
+            "Description": "A heavy door looms before you, locked with an old-fashioned, 4-digit mechanical keypad. The faint scent of oil and metal lingers around it, as though it hasn’t been opened in years. The rust-speckled keypad offers a strange sense of foreboding as your fingers hover over it, ready to punch in the code.",
+            "Illustration": "Adventure/CodePanel.png",
+            "Transitions": [
+                {
+                    "Destination": "EngineDoor:1",
+                    "Condition": "eng_unlocked=0",
+                    "Description": "Enter 0000",
+                    "Action": ""
+                },
+                {
+                    "Destination": "EngineDoor:2",
+                    "Condition": "engine_pass=1&eng_unlocked=0",
+                    "Description": "Enter 1325",
+                    "Action": "eng_unlocked=1"
+                },
+                {
+                    "Destination": "EngineDoor:1",
+                    "Condition": "eng_unlocked=0",
+                    "Description": "Enter 1234 ",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Corridor:2",
+                    "Condition": "eng_unlocked=0",
+                    "Description": "Back",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Engine:0",
+                    "Condition": "eng_unlocked=1",
+                    "Description": "Go to the engine room",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                " ",
+                "After you enter the code, nothing happens",
+                "The door opens after you enter the code"
+            ]
+        },
+        {
+            "ID": "CheckClothes",
+            "Description": "The clothes are arranged eerily, as if their owners were plucked out of them in an instant. They lie flattened against the sofa, holding a vague imprint of human shape. One set has a well-worn access card poking out of a pocket, beckoning you to take it.",
+            "Illustration": "Adventure/Card.png",
+            "Transitions": [
+                {
+                    "Destination": "Kitchen:0",
+                    "Condition": "!monster_state=3",
+                    "Description": "Back",
+                    "Action": "dooropened=1"
+                },
+                {
+                    "Destination": "Kitchen:1",
+                    "Condition": "monster_state=3",
+                    "Description": "Back",
+                    "Action": "dooropened=1"
+                }
+            ],
+            "States": [
+                "In one of the pockets you find an access card."
+            ]
+        },
+        {
+            "ID": "MainBedroom",
+            "Description": "The main bedroom exudes an air of forgotten elegance. A grand king-sized bed dominates the space, draped with faded, tattered sheets. Nearby, a mahogany writing desk sits beneath a haphazard display of delicate vases. One of the vases lies shattered on the floor, alongside a red evening gown and a pair of high-heeled shoes, frozen in a tragic tableau of departure. \n\nOn the desk rests a note.",
+            "Illustration": "Adventure/MainBedroom.png",
+            "Transitions": [
+                {
+                    "Destination": "Password:0",
+                    "Condition": "",
+                    "Description": "Look at the note",
+                    "Action": ""
+                },
+                {
+                    "Destination": "Corridor:2",
+                    "Condition": "",
+                    "Description": "Go to the corridor",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "Password",
+            "Description": "\"The administrator password is 'Passw0rd'. For the love of everything, do NOT leave this note somewhere obvious.\"\n",
+            "Illustration": "Adventure/Note.png",
+            "Transitions": [
+                {
+                    "Destination": "MainBedroom:0",
+                    "Condition": "",
+                    "Description": "Back",
+                    "Action": "password=1\n"
+                }
+            ],
+            "States": [
+                " "
+            ]
+        },
+        {
+            "ID": "MonsterDeathCorr",
+            "Description": "The creature has already slithered into the main corridor, its grotesque form slowly edging toward the kitchen. You try to evade it, but as it draws near, its tendrils whip out with horrifying speed, penetrating your suit. The stench of burning flesh hits you, sharp and overwhelming. In moments, your vision blurs, and you realize with horror that you’re melting from within your own suit. Darkness overtakes you as your consciousness ebbs into nothingness.",
+            "Illustration": "Adventure/Black.png",
+            "Transitions": [
+                {
+                    "Destination": "Start:0",
+                    "Condition": "",
+                    "Description": "Restart",
+                    "Action": ""
+                }
+            ],
+            "States": [
+                "<color=red>You died. </color>"
+            ]
+        },
+        {
+            "ID": "End",
+            "Description": "You have succesfully managed to escape the abandoned ship. It seems like switching the generator to the full power was too much for it, so the moment you get on a safe distance away from the ship, it explodes.",
+            "Illustration": "Adventure/Explosion.png",
+            "Transitions": [
+                {
+                    "Destination": "Exit:0",
+                    "Condition": "",
+                    "Description": "Time to get the money",
+                    "Action": "CompleteQuestObjective(\"LostShip\")\nent = FindEntityByID(\"LostShip\")\n\nent.Kill()\n\n"
+                }
+            ],
+            "States": [
+                "<color=yellow>Success</color>"
+            ]
+        },
+        {
+            "ID": "Exit",
+            "Description": " ",
+            "Illustration": "",
+            "Transitions": [],
+            "States": [
+                " "
+            ]
+        }
+    ]
+}

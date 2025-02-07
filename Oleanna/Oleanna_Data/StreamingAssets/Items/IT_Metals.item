@@ -1,0 +1,14 @@
+{
+    "ID": "Metals",
+    "Name": "Metals",
+    "Description": "No matter how advanced your technology is, metal remains indispensable.",
+    "ItemType": 2,
+    "BasePrice": 10.0,
+    "Series": "",
+    "Stackable": true,
+    "Icon": "MetalIcon.png",
+    "Tags": "",
+    "MeanWeight": 1.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

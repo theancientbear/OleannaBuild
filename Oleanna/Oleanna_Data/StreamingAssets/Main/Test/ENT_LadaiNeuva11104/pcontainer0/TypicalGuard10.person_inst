@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Adi Bakhtiar",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard10",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.6896281242370607,
+    "Extraversion": 46.461387634277347,
+    "Openness": 11.31584358215332,
+    "Agreeableness": 42.9797477722168,
+    "Consientiousness": 78.10662841796875,
+    "ControllerData": ""
+}

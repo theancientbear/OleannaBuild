@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalPirate",
+    "Name": "Sasha Kovalenko",
+    "Portrait": "Characters/TestPortrait4.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalPirate54",
+    "Money": 1428,
+    "IdleMode": "IdlePiracy",
+    "Tags": "citizen|pirate",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 70.85487365722656,
+    "Extraversion": 71.54932403564453,
+    "Openness": -46.89848327636719,
+    "Agreeableness": 16.747455596923829,
+    "Consientiousness": -39.25563049316406,
+    "ControllerData": ""
+}

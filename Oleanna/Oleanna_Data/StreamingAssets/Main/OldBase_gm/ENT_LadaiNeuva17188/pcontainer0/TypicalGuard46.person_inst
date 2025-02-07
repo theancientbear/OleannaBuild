@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Noor Radoff",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214222
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard46",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 8.196486473083496,
+    "Extraversion": 51.30999755859375,
+    "Openness": -9.716992378234864,
+    "Agreeableness": 14.044109344482422,
+    "Consientiousness": 84.91117858886719,
+    "ControllerData": ""
+}

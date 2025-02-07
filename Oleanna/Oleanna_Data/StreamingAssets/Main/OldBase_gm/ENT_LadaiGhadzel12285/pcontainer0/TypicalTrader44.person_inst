@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Ravi Kabore",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": -2214272
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader44",
+    "Money": 2821,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 14.512077331542969,
+    "Extraversion": 78.93014526367188,
+    "Openness": 26.440025329589845,
+    "Agreeableness": 60.21135711669922,
+    "Consientiousness": -7.434713363647461,
+    "ControllerData": ""
+}

@@ -1,0 +1,1 @@
+{"ID":"FuelPlantTest","Name":"Fuel Plant Test","pos":{"x":869.4827270507813,"y":-82.17353057861328},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"ModuleTest","Type":17,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,1,10],"Functionality":"None","Params":""}

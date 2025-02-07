@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Ari Kahale",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader18",
+    "Money": 2490,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 11.59205436706543,
+    "Extraversion": 81.84916687011719,
+    "Openness": 54.071922302246097,
+    "Agreeableness": 46.84388732910156,
+    "Consientiousness": 17.562007904052736,
+    "ControllerData": ""
+}

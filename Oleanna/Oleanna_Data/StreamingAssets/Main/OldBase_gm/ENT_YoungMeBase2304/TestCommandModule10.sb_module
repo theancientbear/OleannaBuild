@@ -1,0 +1,1 @@
+{"ID":"TestCommandModule1","Name":"Command Module","pos":{"x":-16.051647186279298,"y":-577.8333740234375},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/CommandModule.png","Type":0,"race":0,"Purpose":0,"Effectivity":0.0,"DialogBackground":"asdasd","ConnectedModules":[1,2,3],"Functionality":"","Params":"basecommander"}

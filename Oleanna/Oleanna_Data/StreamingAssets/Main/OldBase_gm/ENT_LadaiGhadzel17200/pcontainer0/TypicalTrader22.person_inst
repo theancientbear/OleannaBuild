@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Kito Tenorio",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader22",
+    "Money": 2039,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 19.13604736328125,
+    "Extraversion": 61.29749298095703,
+    "Openness": 43.9873161315918,
+    "Agreeableness": 69.22875213623047,
+    "Consientiousness": 15.982108116149903,
+    "ControllerData": ""
+}

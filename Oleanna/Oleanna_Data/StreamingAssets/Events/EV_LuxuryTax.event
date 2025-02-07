@@ -1,0 +1,39 @@
+{
+    "ID": "LuxuryTax",
+    "Type": 0,
+    "Name": "The Luxury Tax",
+    "Description": "Simmering tensions between the worker classes and those with access to rare luxury goods finally boiled over. Viewing the hoarding of premium items as a symbol of systemic inequality, workers organized coordinated raids on high-end living quarters. These actions were part calculated protest and part opportunistic redistribution, aimed at challenging the uneven distribution of comfort and status aboard the station.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#LuxuryGoods:cons:-2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "base",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

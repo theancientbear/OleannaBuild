@@ -1,0 +1,12 @@
+{
+    "ID": "test_base",
+    "Name": "New base",
+    "MoneyNeeded": 15000.0,
+    "TimeNeeded": 12.0,
+    "TechLevel": 0.0,
+    "Tags": "test",
+    "ObjectToBuild": "YoungMeBase",
+    "Conditions": [],
+    "Type": 1,
+    "pars": ""
+}

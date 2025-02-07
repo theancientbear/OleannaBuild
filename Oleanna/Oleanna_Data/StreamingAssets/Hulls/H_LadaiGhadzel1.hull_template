@@ -1,0 +1,25 @@
+{
+    "ID": "LadaiGhadzel1",
+    "Name": "Ladai Ghadzel",
+    "Description": "Despite this model dating to the times before the Expansion, Ladai Ghadzel is still beloved by poor traders and traffickers for its price and cheap spare parts.",
+    "Producer": "",
+    "Series": "",
+    "Space": 400,
+    "SpaceSigma": 150,
+    "BasePrice": 750,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 500,
+    "Image": "LadaiGhadzel.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 300.0,
+    "Tags": "ForSell|Trader",
+    "Slots": [
+        0,
+        1,
+        2
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

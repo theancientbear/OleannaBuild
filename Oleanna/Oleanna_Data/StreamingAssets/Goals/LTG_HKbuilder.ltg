@@ -1,0 +1,25 @@
+{
+    "ID": "HKbuilder",
+    "templates": [
+        {
+            "type": 14,
+            "Arguments": "mob_hk_base"
+        },
+        {
+            "type": 22,
+            "Arguments": "station_found#700"
+        },
+        {
+            "type": 16,
+            "Arguments": "point_found#citizen"
+        },
+        {
+            "type": 18,
+            "Arguments": "MSH_HKTurret"
+        },
+        {
+            "type": 3,
+            "Arguments": "point_found"
+        }
+    ]
+}

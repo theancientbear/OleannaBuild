@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "BioUnit",
+    "Name": "Bio-Contaiment Unit",
+    "Description": "Here’s the deal. You’re transporting a Bio-Containment Unit—and no, before you ask, I don’t know what’s in it, and I sure as hell don’t want to find out. Could be a rare flower, could be something with teeth. All I know is it needs to get to a lab *fast*. Oh, and don’t open the case. Seriously, *do not* open it. One lad did, and well… let’s just say we’re still looking for his shoes. #Reward# is waiting if you’re up to the task. ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QBioUnit",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "You actually did it! And with both shoes still on, no less. The lab techs are thrilled, though they still won’t tell me what’s in that box. Anyway, here’s your well-earned buck. Go treat yourself—you've earned it, mate. ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

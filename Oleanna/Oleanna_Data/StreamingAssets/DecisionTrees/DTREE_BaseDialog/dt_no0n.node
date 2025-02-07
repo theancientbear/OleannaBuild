@@ -1,0 +1,11 @@
+{
+    "ID": "",
+    "emotion": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "AIonly": false,
+    "Description": "Hello there! Do you want anything?"
+}

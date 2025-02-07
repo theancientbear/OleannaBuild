@@ -1,0 +1,39 @@
+{
+    "ID": "hello",
+    "Type": 0,
+    "Name": "New hello",
+    "Description": "Test event",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "",
+    "InfoTranslated": "",
+    "Tags": "",
+    "TargetTags": "",
+    "OriginTags": "base",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 6,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

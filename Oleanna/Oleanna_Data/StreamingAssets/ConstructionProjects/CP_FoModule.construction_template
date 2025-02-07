@@ -1,0 +1,12 @@
+{
+    "ID": "FoModule",
+    "Name": "Expansion with food module",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "FoPlantTest",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

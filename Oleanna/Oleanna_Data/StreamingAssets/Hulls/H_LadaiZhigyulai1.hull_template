@@ -1,0 +1,25 @@
+{
+    "ID": "LadaiZhigyulai1",
+    "Name": "Ladai Zhigyulai",
+    "Description": "Ladai Zhigyulai, despite being an old model, is very popular among pirates due to cheap spare parts and relatively light weight.",
+    "Producer": "",
+    "Series": "",
+    "Space": 250,
+    "SpaceSigma": 70,
+    "BasePrice": 970,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 400,
+    "Image": "LadaiZhigyulai.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 360.0,
+    "Tags": "ForSell|Freelancer",
+    "Slots": [
+        1,
+        2,
+        0
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

@@ -1,0 +1,27 @@
+{
+    "ID": "VolkenagSjover",
+    "Name": "Sjover",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 600,
+    "SpaceSigma": 70,
+    "BasePrice": 700,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 0,
+    "Image": "VolkenagSjover.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 300.0,
+    "Tags": "Test",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        6
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

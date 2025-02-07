@@ -1,0 +1,1 @@
+{"ID":"WaPlantTest","Name":"Water Plant","pos":{"x":749.9375,"y":-677.6159057617188},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"ModuleTest","Type":14,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[0,7,9],"Functionality":"None","Params":""}

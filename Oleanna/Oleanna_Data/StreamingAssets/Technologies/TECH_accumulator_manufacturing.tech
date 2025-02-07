@@ -1,0 +1,11 @@
+{
+    "ID": "accumulator_manufacturing",
+    "Name": "Accumulator manufacturing",
+    "Icon": "",
+    "Description": "Accumulator manufacturing focuses on the production of highly advanced energy storage devices that go far beyond traditional batteries. This technology combines breakthroughs in materials science, nanotechnology, and energy manipulation to create power storage solutions with unprecedented capacity, charge/discharge rates, and longevity. These accumulators revolutionize energy storage across all scales, from portable devices to grid-level installations, enabling new possibilities in electric transportation, renewable energy integration, and mobile power systems. ",
+    "Requirements": [
+        "tech:energetic_manipulation"
+    ],
+    "ResearchNeeded": 300.0,
+    "ResearchDone": 0.0
+}

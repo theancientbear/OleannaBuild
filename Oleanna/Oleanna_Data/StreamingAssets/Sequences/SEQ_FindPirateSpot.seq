@@ -1,0 +1,4 @@
+{
+    "ID": "FindPirateSpot",
+    "Scr": "found = Launcher.Container.HostEntity\n\nbases = GetSpaceBasesAroundEntity(found,1000)\n\nlength = bases.Count\n\nind1 = math.random(length)-1\n\nind2 = math.random(length)-1\n\nif ind1 == ind2 then\n\tif ind2 > 0 then ind2 = ind2-1 else ind2 = ind2+1 end\nend\n\n\n\nfound = (bases[ind1]+bases[ind2])/2\n\n"
+}

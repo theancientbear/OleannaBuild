@@ -1,0 +1,19 @@
+{
+    "Type": 1,
+    "TimeToComplete": 1000.0,
+    "ID": "TestKill",
+    "Name": "Killing peeps",
+    "Description": "We need to kill #TargetObject#. You wouldn't mind some cleaning up, right? The payment of #Reward# hopefully will be enough.",
+    "Objective": "Kill #TargetObject# and return to #TargetBase#.",
+    "Reward": 600.0,
+    "ObjectInQuestion": "citizen",
+    "Condition": "",
+    "TechProgress": "0",
+    "Tags": [
+        "ss"
+    ],
+    "OnFinish": "",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

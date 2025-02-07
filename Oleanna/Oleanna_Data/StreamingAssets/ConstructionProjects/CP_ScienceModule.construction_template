@@ -1,0 +1,12 @@
+{
+    "ID": "ScienceModule",
+    "Name": "Expansion with a scientific module",
+    "MoneyNeeded": 4000.0,
+    "TimeNeeded": 3.0,
+    "TechLevel": 0.0,
+    "Tags": "",
+    "ObjectToBuild": "ScienceTestModule",
+    "Conditions": [],
+    "Type": 0,
+    "pars": ""
+}

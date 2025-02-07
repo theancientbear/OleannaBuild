@@ -1,0 +1,27 @@
+{
+    "ID": "AretiagoPhaerin",
+    "Name": "pTest",
+    "Description": "",
+    "Producer": "",
+    "Series": "",
+    "Space": 500,
+    "SpaceSigma": 70,
+    "BasePrice": 700,
+    "TechLevel": 0,
+    "Armor": 0.0,
+    "ArmorSigma": 0.0,
+    "Weight": 300,
+    "Image": "AretiagoFaerin.png",
+    "BackgroundDialog": "",
+    "MaxHealth": 300.0,
+    "Tags": "Test",
+    "Slots": [
+        1,
+        2,
+        0,
+        4,
+        6
+    ],
+    "AdditionalSlots": [],
+    "Conditions": []
+}

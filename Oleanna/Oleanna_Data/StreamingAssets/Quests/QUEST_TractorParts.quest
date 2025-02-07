@@ -1,0 +1,20 @@
+{
+    "Type": 0,
+    "TimeToComplete": 0.0,
+    "ID": "TractorParts",
+    "Name": "Tractor Parts",
+    "Description": "Alright, listen up. Some genius stole a bunch of Tractor Parts from the collective farm, and now they’re panicking because harvest season’s around the corner, and the parts somehow ended up on our station. Your job is to quietly return the parts before anyone notices they're missing. The trick? Get them back fast enough, or they’ll think you’re the one who nicked ‘em in the first place. Get it done, and you’ll pocket #Reward# and avoid getting your name added to the list for “voluntary labor.” ",
+    "Objective": "Deilver the #TargetObject# to #TargetBase#.",
+    "Reward": 400.0,
+    "ObjectInQuestion": "QTractorParts",
+    "Condition": "",
+    "TechProgress": "",
+    "Tags": [
+        "base",
+        "basecommander"
+    ],
+    "OnFinish": "Good job! The farm’s up and running again, all thanks to you! Here’s your reward—enough to thank you for this amazing find, and for returning it to us! Now go celebrate by *not* stealing anything. ",
+    "SequenceOnStart": "",
+    "SequenceOnFinish": "",
+    "EventOnFinish": ""
+}

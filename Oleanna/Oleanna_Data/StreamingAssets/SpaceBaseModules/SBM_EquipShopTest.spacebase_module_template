@@ -1,0 +1,11 @@
+{
+    "ID": "EquipShopTest",
+    "Name": "Workshop",
+    "Graphics": "Modules/Workshop.png",
+    "Type": 5,
+    "race": 0,
+    "Purpose": 0,
+    "Effectivity": 10.0,
+    "DialogBackground": "",
+    "Params": "ForSell"
+}

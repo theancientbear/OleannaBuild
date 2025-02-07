@@ -1,0 +1,1 @@
+{"ID":"ElFactTest","Name":"El Factory Test","pos":{"x":426.8039855957031,"y":1582.2725830078125},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"YahrunElectric.png","Type":10,"race":0,"Purpose":0,"Effectivity":1.0,"DialogBackground":"","ConnectedModules":[4,5],"Functionality":"None","Params":""}

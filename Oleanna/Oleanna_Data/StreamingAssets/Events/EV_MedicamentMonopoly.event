@@ -1,0 +1,39 @@
+{
+    "ID": "MedicamentMonopoly",
+    "Type": 0,
+    "Name": "Medicament Monopoly",
+    "Description": "A clandestine group of medical supply managers recognized an opportunity in the station's decentralized healthcare system. By strategically hoarding and then selectively releasing medicaments at exorbitant prices, they created an underground pharmaceutical black market. Their actions were driven by a combination of personal profit and a twisted sense of power over the station's medical resources.",
+    "Distance": 0.0,
+    "SequenceToLaunch": "",
+    "Modifiers": "resource#Medicaments:cons:2|IllegalGoods:cons:2_10",
+    "InfoTranslated": "",
+    "Tags": "base",
+    "TargetTags": "",
+    "OriginTags": "base",
+    "SpecialTags": "",
+    "SpecialTags2": "",
+    "LTGoal": "",
+    "ReactionAI": "",
+    "ReactionPlayer": "",
+    "Duration": 0.0,
+    "Unique": false,
+    "Priority": 2,
+    "source": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response1": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    },
+    "response2": {
+        "Hapinness": 0.0,
+        "Expectation": 0.0,
+        "Curiousity": 0.0,
+        "Admiration": 0.0
+    }
+}

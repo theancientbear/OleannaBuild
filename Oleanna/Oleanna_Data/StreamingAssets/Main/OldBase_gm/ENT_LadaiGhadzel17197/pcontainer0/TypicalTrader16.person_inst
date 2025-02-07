@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalTrader",
+    "Name": "Rumi Tupuola",
+    "Portrait": "TestPortrait.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalTrader16",
+    "Money": 2779,
+    "IdleMode": "IdleTrade",
+    "Tags": "citizen|trader",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 15.745560646057129,
+    "Extraversion": 55.69011688232422,
+    "Openness": 58.77808380126953,
+    "Agreeableness": 65.0517578125,
+    "Consientiousness": 16.98385238647461,
+    "ControllerData": ""
+}

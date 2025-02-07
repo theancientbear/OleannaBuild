@@ -1,0 +1,14 @@
+{
+    "ID": "QScreamingSculpture",
+    "Name": "Screaming Sculpture",
+    "Description": "You are lucky that the storage unit of your ship is sound isolated.",
+    "ItemType": 3,
+    "BasePrice": 0.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "TestItemIcon.png",
+    "Tags": "",
+    "MeanWeight": 0.0,
+    "SigmaWeight": 0.0,
+    "Conditions": []
+}

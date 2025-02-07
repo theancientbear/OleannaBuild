@@ -1,0 +1,1 @@
+{"ID":"EquipShopTest","Name":"Equipment Shop Test","pos":{"x":4.520694732666016,"y":-221.7230224609375},"rot":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Graphics":"Modules/Workshop.png","Type":5,"race":0,"Purpose":0,"Effectivity":10.0,"DialogBackground":"","ConnectedModules":[0,1,2,5],"Functionality":"","Params":"Test"}
