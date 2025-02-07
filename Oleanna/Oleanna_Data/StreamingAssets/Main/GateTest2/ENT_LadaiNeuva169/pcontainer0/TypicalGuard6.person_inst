@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Indra Chow",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard6",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 0.07245063781738281,
+    "Extraversion": 44.226470947265628,
+    "Openness": 21.771516799926759,
+    "Agreeableness": 34.736000061035159,
+    "Consientiousness": 64.13782501220703,
+    "ControllerData": ""
+}

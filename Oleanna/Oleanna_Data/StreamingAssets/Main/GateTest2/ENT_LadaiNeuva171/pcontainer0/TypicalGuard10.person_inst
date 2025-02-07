@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Noor Temir",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard10",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 0.04137158393859863,
+    "Extraversion": 45.91194152832031,
+    "Openness": 21.885799407958986,
+    "Agreeableness": 25.966463088989259,
+    "Consientiousness": 72.96455383300781,
+    "ControllerData": ""
+}

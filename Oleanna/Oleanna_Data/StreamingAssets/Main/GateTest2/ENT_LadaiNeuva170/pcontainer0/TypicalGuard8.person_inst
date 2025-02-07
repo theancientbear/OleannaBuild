@@ -1,0 +1,31 @@
+{
+    "ID": "TypicalGuard",
+    "Name": "Sasha Kabore",
+    "Portrait": "GuardPort.png",
+    "race": 0,
+    "controller": {
+        "instanceID": 0
+    },
+    "Traits": [],
+    "Memory": {
+        "Pieces": []
+    },
+    "UniqueID": "TypicalGuard8",
+    "Money": 0,
+    "IdleMode": "IdleProtect",
+    "Tags": "citizen|guard",
+    "OnChat": "Chat",
+    "OnAttacked": "OnAttackBasic",
+    "OnRaid": "",
+    "OnFightNoticed": "",
+    "OnCryForHelp": "",
+    "OnLootNoticed": "",
+    "OnMonsterNearby": "",
+    "OnPersonNoticed": "",
+    "Neurotism": 2.6454849243164064,
+    "Extraversion": 57.13399124145508,
+    "Openness": 25.1156005859375,
+    "Agreeableness": 35.741512298583987,
+    "Consientiousness": 68.6037826538086,
+    "ControllerData": ""
+}
