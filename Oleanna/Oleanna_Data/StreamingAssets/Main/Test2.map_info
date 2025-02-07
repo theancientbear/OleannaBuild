@@ -1,0 +1,8 @@
+{
+    "Name": "default",
+    "Description": "default",
+    "OnLoad": "",
+    "OnUnload": "",
+    "OnInitialize": "",
+    "Initialized": false
+}

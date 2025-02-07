@@ -1,0 +1,21 @@
+{
+    "itemType": 1,
+    "Name": "Test Generator",
+    "Description": "",
+    "ID": "TestGenerator",
+    "BasePrice": 100.0,
+    "Series": "",
+    "Stackable": false,
+    "Icon": "ShieldGeneratorIcon.png",
+    "Quantity": 1,
+    "Weight": 0.0,
+    "Type": 3,
+    "MaxDurability": 0.0,
+    "Durability": 0.0,
+    "TechLevel": 0,
+    "RechargeCapacity": 305.1800231933594,
+    "RechargeTime": 2.4173789024353029,
+    "RechargeRate": 11.807924270629883,
+    "tempCapacity": 305.1800231933594,
+    "tempTimeSinceLastHit": 0.0
+}
