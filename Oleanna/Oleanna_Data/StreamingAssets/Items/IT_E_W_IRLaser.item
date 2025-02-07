@@ -18,7 +18,7 @@
     "DurabilityBase": 200.0,
     "DurabilitySigma": 50.0,
     "Producer": "",
-    "TechLevel": 0,
+    "TechLevel": 1,
     "weaponType": 0,
     "MinDamageMean": 14.0,
     "MinDamageDelta": 2.0,

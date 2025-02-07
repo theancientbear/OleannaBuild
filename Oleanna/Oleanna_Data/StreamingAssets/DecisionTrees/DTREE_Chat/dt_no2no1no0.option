@@ -9,7 +9,7 @@
     "Description": "",
     "NextMode": "",
     "NextGoal": "",
-    "Sequence": "",
+    "Sequence": "Post_GenerateBattleMoneyDemand",
     "SendToNext": "",
     "ChangeCharacter": ""
 }

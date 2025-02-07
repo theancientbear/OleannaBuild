@@ -14,7 +14,7 @@
     "Image": "LadaiGhadzel.png",
     "BackgroundDialog": "",
     "MaxHealth": 300.0,
-    "Tags": "ForSell|Trader",
+    "Tags": "ForSell|trader",
     "Slots": [
         0,
         1,

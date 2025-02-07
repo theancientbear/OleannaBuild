@@ -14,7 +14,7 @@
     "Image": "LadaNeuva.png",
     "BackgroundDialog": "",
     "MaxHealth": 450.0,
-    "Tags": "ForSell|Guard",
+    "Tags": "ForSell|guard",
     "Slots": [
         0,
         1,

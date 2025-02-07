@@ -4,7 +4,7 @@
     "Description": "",
     "Producer": "",
     "Series": "",
-    "Space": 250,
+    "Space": 300,
     "SpaceSigma": 70,
     "BasePrice": 1600,
     "TechLevel": 1,
@@ -14,7 +14,7 @@
     "Image": "Jiraak.png",
     "BackgroundDialog": "",
     "MaxHealth": 390.0,
-    "Tags": "ForSell|Trader",
+    "Tags": "ForSell|trader",
     "Slots": [
         1,
         2,

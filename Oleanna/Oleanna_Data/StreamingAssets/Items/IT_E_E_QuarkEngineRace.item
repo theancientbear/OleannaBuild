@@ -18,7 +18,7 @@
     "DurabilityBase": 200.0,
     "DurabilitySigma": 80.0,
     "Producer": "",
-    "TechLevel": 0,
+    "TechLevel": 1,
     "ForwardSpeedBase": 95.0,
     "SidewaysSpeedBase": 55.0,
     "BackwardSpeedBase": 50.0,

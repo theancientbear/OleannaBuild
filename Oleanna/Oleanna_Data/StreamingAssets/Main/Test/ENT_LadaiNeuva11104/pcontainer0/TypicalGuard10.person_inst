@@ -4,7 +4,7 @@
     "Portrait": "GuardPort.png",
     "race": 0,
     "controller": {
-        "instanceID": 0
+        "instanceID": -4110920
     },
     "Traits": [],
     "Memory": {

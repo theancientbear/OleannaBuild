@@ -4,5 +4,5 @@
     "OnLoad": "",
     "OnUnload": "",
     "OnInitialize": "",
-    "Initialized": false
+    "Initialized": true
 }

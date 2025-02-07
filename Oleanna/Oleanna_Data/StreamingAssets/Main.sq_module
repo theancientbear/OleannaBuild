@@ -18,3 +18,5 @@
 /Sequences/SEQ_Quest_CreateLostShip.seq
 /Sequences/SEQ_Quest_LostShipInteract.seq
 /Sequences/SEQ_EnterOleanna.seq
+/Sequences/SEQ_Post_GenerateBattleMoneyDemand.seq
+/Sequences/SEQ_Post_InverseGenerateBattleMoneyDemand.seq

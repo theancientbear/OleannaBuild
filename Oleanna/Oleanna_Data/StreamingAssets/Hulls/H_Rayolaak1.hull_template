@@ -14,7 +14,7 @@
     "Image": "Rayolaak.png",
     "BackgroundDialog": "",
     "MaxHealth": 600.0,
-    "Tags": "ForSell|Trader",
+    "Tags": "ForSell|trader",
     "Slots": [
         1,
         2,
